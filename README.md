@@ -1,27 +1,31 @@
-# Next.js with react-bootstrap example
+# Create React App
 
-This example shows how to use Next.js along with [react-bootstrap](https://react-bootstrap.github.io/).
+This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
-## Deploy your own
+## Deploy Your Own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-react-bootstrap)
+Deploy your own Create React App project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-react-bootstrap&project-name=with-react-bootstrap&repository-name=with-react-bootstrap)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
 
-## How to use
+_Live Example: https://create-react-template.vercel.app/_
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Available Scripts
 
-```bash
-npx create-next-app --example with-react-bootstrap with-react-bootstrap-app
-```
+In the project directory, you can run:
 
-```bash
-yarn create next-app --example with-react-bootstrap with-react-bootstrap-app
-```
+### `npm start`
 
-```bash
-pnpm create next-app --example with-react-bootstrap with-react-bootstrap-app
-```
+Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+The page will reload when you make changes. You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.
+
+It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
