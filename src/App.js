@@ -3,6 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App box">
+      <h1 style={{color: "#FFF"}}>Dirk Trackchasing</h1>
       <a href="/recaps/2-01-20_Boardwalk_Hall.pdf" target="_blank">2-01-20: Boardwalk Hall</a>
       <br/>
       <a href="/recaps/6-19-20_Tri-State_Speedway.pdf" target="_blank">6-19-20: Tri-State Speedway</a>
