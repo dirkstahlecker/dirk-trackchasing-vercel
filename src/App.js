@@ -56,6 +56,8 @@ function App() {
       <br/>
       <a href="/recaps/7-07-23_Farmer_City_Raceway.pdf" target="_blank">7-07-23: Farmer City Raceway</a>
       <br/>
+      <a href="/recaps/7-23-23_Pocono_Raceway.pdf" target="_blank">7-23-23: Pocono Raceway</a>
+      <br/>
     </div>
   );
 }
