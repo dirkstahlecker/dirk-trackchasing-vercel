@@ -58,6 +58,8 @@ function App() {
       <br/>
       <a href="/recaps/7-23-23_Pocono_Raceway.pdf" target="_blank">7-23-23: Pocono Raceway</a>
       <br/>
+      <a href="/recaps/8-26-23_Marshfield_Fair.pdf" target="_blank">8-26-23: Marshfield Fair</a>
+      <br/>
     </div>
   );
 }
