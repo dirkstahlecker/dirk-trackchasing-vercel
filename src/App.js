@@ -56,11 +56,15 @@ function App() {
       <br/>
       <a href="/recaps/7-07-23_Farmer_City_Raceway.pdf" target="_blank">7-07-23: Farmer City Raceway</a>
       <br/>
+      <a href="/recaps/7-15-23_NHMX_flat_track.pdf" target="_blank">7-15-23: NHMX Flat Track</a>
+      <br/>
       <a href="/recaps/7-23-23_Pocono_Raceway.pdf" target="_blank">7-23-23: Pocono Raceway</a>
       <br/>
       <a href="/recaps/8-26-23_Marshfield_Fair.pdf" target="_blank">8-26-23: Marshfield Fair</a>
       <br/>
       <a href="/recaps/9-29-23_Unity_Raceway.pdf" target="_blank">9-29-23: Unity Raceway</a>
+      <br/>
+      <a href="/recaps/9-30-23_Thompson_Road_Course.pdf" target="_blank">9-30-23: Thompson Speedway (Asphalt Road Course)</a>
       <br/>
     </div>
   );
