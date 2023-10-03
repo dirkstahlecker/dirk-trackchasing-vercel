@@ -56,7 +56,7 @@ function App() {
       <br/>
       <a href="/recaps/7-07-23_Farmer_City_Raceway.pdf" target="_blank">7-07-23: Farmer City Raceway</a>
       <br/>
-      <a href="/recaps/7-15-23_NHMX_flat_track.pdf" target="_blank">7-15-23: NHMX Flat Track</a>
+      <a href="/recaps/7-15-23_NHMX_Flat_Track.pdf" target="_blank">7-15-23: NHMX Flat Track</a>
       <br/>
       <a href="/recaps/7-23-23_Pocono_Raceway.pdf" target="_blank">7-23-23: Pocono Raceway</a>
       <br/>
