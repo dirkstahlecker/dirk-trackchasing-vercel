@@ -66,6 +66,8 @@ function App() {
       <br/>
       <a href="/recaps/9-30-23_Thompson_Road_Course.pdf" target="_blank">9-30-23: Thompson Speedway (Asphalt Road Course)</a>
       <br/>
+      <a href="/recaps/11-04-23_Stockton_Dirt_Track.pdf" target="_blank">11-04-23: Stockton Dirt Track</a>
+      <br/>
     </div>
   );
 }
