@@ -68,6 +68,8 @@ function App() {
       <br/>
       <a href="/recaps/11-04-23_Stockton_Dirt_Track.pdf" target="_blank">11-04-23: Stockton Dirt Track</a>
       <br/>
+      <a href="/recaps/11-05-23_SBC_Fairgrounds.pdf" target="_blank">11-05-23: SBC Fairgrounds</a>
+      <br/>
     </div>
   );
 }
