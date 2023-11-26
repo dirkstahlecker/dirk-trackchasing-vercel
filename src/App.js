@@ -70,6 +70,10 @@ function App() {
       <br/>
       <a href="/recaps/11-05-23_SBC_Fairgrounds.pdf" target="_blank">11-05-23: SBC Fairgrounds</a>
       <br/>
+      <a href="/recaps/11-10-23_Central_Arizona_Raceway.pdf" target="_blank">11-10-23: Central Arizona Raceway</a>
+      <br/>
+      <a href="/recaps/11-11-23_Podium_Club_at_Attesa.pdf" target="_blank">11-11-23: Podium Club at Attesa (Full Course)</a>
+      <br/>
     </div>
   );
 }
