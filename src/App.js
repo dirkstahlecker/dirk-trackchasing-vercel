@@ -74,6 +74,8 @@ function App() {
       <br/>
       <a href="/recaps/11-11-23_Podium_Club_at_Attesa.pdf" target="_blank">11-11-23: Podium Club at Attesa (Full Course)</a>
       <br/>
+      <a href="/recaps/11-12-23_Shortys_Sports_Park.pdf" target="_blank">11-12-23: Shorty's Sports Park</a>
+      <br/>
     </div>
   );
 }
