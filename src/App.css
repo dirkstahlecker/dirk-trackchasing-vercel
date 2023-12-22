@@ -1,3 +1,28 @@
 .App {
   text-align: center;
+  color: white;
+}
+
+.external-link {
+  text-decoration: none;
+  color: lightblue;
+}
+
+.flips-container {
+  display: flex;
+}
+
+.flips-child {
+  flex: 1;
+  /* border: 1px solid hotpink; */
+}
+
+.flips-left {
+  text-align: right;
+  padding-right: 5px;
+}
+
+.flips-right {
+  text-align: left;
+  padding-left: 5px;
 }
