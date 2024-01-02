@@ -191,7 +191,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/vHso7KvLyAM" target="_blank">149 Selinsgrove Speedway</a>
       <br/>
-      <a href="https://youtu.be/bxHrYoygHOA" target="_blank">154_big_diamond</a>
+      <a href="https://youtu.be/bxHrYoygHOA" target="_blank">154 Big Diamond</a>
       <br/>
       <a href="https://youtu.be/4g342y2U_yc" target="_blank">168 Kokomo Speedway</a>
       <br/>
@@ -581,54 +581,54 @@ function App() {
       <br/>
       <a href="https://youtu.be/tcFTI27JF6w" target="_blank">498 SBC Fairgrounds</a>
       <br/>
-      
+
       <a href="https://youtu.be/ESpuiqTLnGg" target="_blank">501 Wild Horse Pass</a>
       <br/>
       <a href="https://youtu.be/Mnsl-QeALUk" target="_blank">502 Wild Horse Pass</a>
       <br/>
       <a href="https://youtu.be/48rYrkAWRmY" target="_blank">503 Wild Horse Pass</a>
       <br/>
-      <a href="https://youtu.be/FPISEIvh8HU" target="_blank">506 and 507 Bakersfield</a>
+      <a href="https://youtu.be/FPISEIvh8HU" target="_blank">506 and 507 Bakersfield Speedway</a>
       <br/>
-      <a href="https://youtu.be/1DtwQHrFEZM" target="_blank">508 Placerville</a>
+      <a href="https://youtu.be/1DtwQHrFEZM" target="_blank">508 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/au1VD2V3NOE" target="_blank">509 Placerville</a>
+      <a href="https://youtu.be/au1VD2V3NOE" target="_blank">509 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/ORfQndgVtSk" target="_blank">510 Placerville</a>
+      <a href="https://youtu.be/ORfQndgVtSk" target="_blank">510 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/xPdY1O2SHN4" target="_blank">511 Placerville</a>
+      <a href="https://youtu.be/xPdY1O2SHN4" target="_blank">511 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/hXsyvhqvVlc" target="_blank">512 and 513 Placerville</a>
+      <a href="https://youtu.be/hXsyvhqvVlc" target="_blank">512 and 513 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/-JdjHl4tJ-w" target="_blank">514 Placerville</a>
+      <a href="https://youtu.be/-JdjHl4tJ-w" target="_blank">514 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/ZEAJWZl_ObE" target="_blank">515 Placerville</a>
+      <a href="https://youtu.be/ZEAJWZl_ObE" target="_blank">515 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/aMpbT55AICI" target="_blank">518 and 519 Placerville</a>
+      <a href="https://youtu.be/aMpbT55AICI" target="_blank">518 and 519 Placerville Speedway</a>
       <br/>
-      <a href="https://youtu.be/innSzTHPBQQ" target="_blank">520 Merced</a>
+      <a href="https://youtu.be/innSzTHPBQQ" target="_blank">520 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/btumeU4oQ_8" target="_blank">521 Merced</a>
+      <a href="https://youtu.be/btumeU4oQ_8" target="_blank">521 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/tdy0K-lN-vc" target="_blank">522 Merced</a>
+      <a href="https://youtu.be/tdy0K-lN-vc" target="_blank">522 Merced Raceway/a>
       <br/>
-      <a href="https://youtu.be/k2cQ8R9krnw" target="_blank">523 Merced</a>
+      <a href="https://youtu.be/k2cQ8R9krnw" target="_blank">523 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/OnYunRldwL0" target="_blank">524_merced</a>
+      <a href="https://youtu.be/OnYunRldwL0" target="_blank">524 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/s3Zdnxrn3jE" target="_blank">525_merced</a>
+      <a href="https://youtu.be/s3Zdnxrn3jE" target="_blank">525 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/D_nd52MdJZY" target="_blank">526_ventura</a>
+      <a href="https://youtu.be/D_nd52MdJZY" target="_blank">526 Ventura</a>
       <br/>
-      <a href="https://youtu.be/8LceqLfEDus" target="_blank">527_and_528_ventura</a>
+      <a href="https://youtu.be/8LceqLfEDus" target="_blank">527 and 528 Ventura Raceway</a>
       <br/>
-      <a href="https://youtu.be/4e8pMbULF7k" target="_blank">529_ventura</a>
+      <a href="https://youtu.be/4e8pMbULF7k" target="_blank">529 Ventura Raceway</a>
       <br/>
-      <a href="https://youtu.be/_pBXfbMUoMw" target="_blank">530_and_531_ventura</a>
+      <a href="https://youtu.be/_pBXfbMUoMw" target="_blank">530 and 531 Ventura Raceway</a>
       <br/>
-      <a href="https://youtu.be/JE4mZQUrLoM" target="_blank">533_gateway</a>
+      <a href="https://youtu.be/JE4mZQUrLoM" target="_blank">533 Gateway Dirt Nationals</a>
       <br/>
-      <a href="https://youtu.be/iA_B2Y3ytmQ" target="_blank">534_gateway</a>
+      <a href="https://youtu.be/iA_B2Y3ytmQ" target="_blank">534 Gateway Dirt Nationals</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
