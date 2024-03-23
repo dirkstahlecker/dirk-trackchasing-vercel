@@ -84,6 +84,8 @@ function App() {
       <br/>
       <a href="/recaps/11-12-23_Shortys_Sports_Park.pdf" target="_blank">11-12-23: Shorty's Sports Park</a>
       <br/>
+      <a href="/recaps/3-01-24_Nitrodome_at_Planet_Hollywood.pdf" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
+      <br/>
       <br/>
       <hr/>
       <h3>Flips</h3>
@@ -95,9 +97,9 @@ function App() {
           <a href="https://youtu.be/a1qwU1SYpYk" target="_blank">test</a></div>
       </div> */}
 
-      <a href="https://youtu.be/a1qwU1SYpYk" target="_blank">22 seekonk</a>
+      <a href="https://youtu.be/a1qwU1SYpYk" target="_blank">22 Seekonk Speedway</a>
       <br/>
-      <a href="https://youtu.be/4i868jFmovM" target="_blank">25 wall_stadium</a>
+      <a href="https://youtu.be/4i868jFmovM" target="_blank">25 Wall Stadium Speewday</a>
       <br/>
       <a href="https://youtu.be/QvqZ5S9ngBc" target="_blank">26 Wall Stadium Speedway</a>
       <br/>
@@ -581,7 +583,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/tcFTI27JF6w" target="_blank">498 SBC Fairgrounds</a>
       <br/>
-
+      <a href="https://youtu.be/yJrR--V_cEg" target="_blank">500 Wild Horse Pass</a>
+      <br/>
       <a href="https://youtu.be/ESpuiqTLnGg" target="_blank">501 Wild Horse Pass</a>
       <br/>
       <a href="https://youtu.be/Mnsl-QeALUk" target="_blank">502 Wild Horse Pass</a>
@@ -610,7 +613,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/btumeU4oQ_8" target="_blank">521 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/tdy0K-lN-vc" target="_blank">522 Merced Raceway/a>
+      <a href="https://youtu.be/tdy0K-lN-vc" target="_blank">522 Merced Raceway</a>
       <br/>
       <a href="https://youtu.be/k2cQ8R9krnw" target="_blank">523 Merced Raceway</a>
       <br/>
