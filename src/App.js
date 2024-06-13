@@ -1,4 +1,5 @@
 import './App.css';
+//flip videos are on TrackchaserDirk youtube account
 
 function App() {
   return (
@@ -169,7 +170,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/GkfpzVgc1sA" target="_blank">117 William's Grove Speedway</a>
       <br/>
-      <a href="https://youtu.be/ZtAHMGVi3zw" target="_blank">119 Paragon Speedway</a>
+      <a href="https://youtu.be/ZtAHMGVi3zw" target="_blank">119 Paragon Speedway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/Gi7ySPGU9Yo" target="_blank">120 Paragon Speedway</a>
       <br/>
@@ -179,7 +180,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/k3qEkGSfco8" target="_blank">127 Gas City Speedway</a>
       <br/>
-      <a href="https://youtu.be/El7bOOZiTsc" target="_blank">128 Gas City Speedway</a>
+      <a href="https://youtu.be/El7bOOZiTsc" target="_blank">128 Gas City Speedway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/P7vybhmS_C8" target="_blank">137 Tri-State Speedway</a>
       <br/>
@@ -197,7 +198,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/bxHrYoygHOA" target="_blank">154 Big Diamond</a>
       <br/>
-      <a href="https://youtu.be/4g342y2U_yc" target="_blank">168 Kokomo Speedway</a>
+      <a href="https://youtu.be/4g342y2U_yc" target="_blank">168 Kokomo Speedway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/ljLIvXk3H3M" target="_blank">169 Kokomo Speedway</a>
       <br/>
@@ -219,7 +220,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/b-1EX7Po_zU" target="_blank">187 Bridgeport Motorsports Park</a>
       <br/>
-      <a href="https://youtu.be/X5yqCbfS1Nk" target="_blank">188 Bristol Motor Speedway (Dirt)</a>
+      <a href="https://youtu.be/X5yqCbfS1Nk" target="_blank">188 Bristol Motor Speedway (Dirt) (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/0PcfP55VBoE" target="_blank">189 Bristol Motor Speedway (Dirt)</a>
       <br/>
@@ -247,11 +248,11 @@ function App() {
       <br/>
       <a href="https://youtu.be/QGyXF3j39S4" target="_blank">213 and 214 Bridgeport Motorsports Park</a>
       <br/>
-      <a href="https://youtu.be/Lpuj0Ia_TIo" target="_blank">217 William's Grove Speedway</a>
+      <a href="https://youtu.be/Lpuj0Ia_TIo" target="_blank">217 William's Grove Speedway (Qualifying)</a>
       <br/>
-      <a href="https://youtu.be/nfz0ujnp0X4" target="_blank">218 Bloomsburg Fairgrounds Speedway</a>
+      <a href="https://youtu.be/nfz0ujnp0X4" target="_blank">218 Bloomsburg Fairgrounds Speedway (Qualifying)</a>
       <br/>
-      <a href="https://youtu.be/68zfHnb2KA8" target="_blank">219 Bloomsburg Fairgrounds Speedway</a>
+      <a href="https://youtu.be/68zfHnb2KA8" target="_blank">219 Bloomsburg Fairgrounds Speedway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/pZ-7Z11FQAQ" target="_blank">221 ERX</a>
       <br/>
@@ -299,7 +300,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/O-W6sXP-EEs" target="_blank">261 Perris Auto Speedway</a>
       <br/>
-      <a href="https://youtu.be/d5iDvgQK87A" target="_blank">262 Gateway Dirt Nationals</a>
+      <a href="https://youtu.be/d5iDvgQK87A" target="_blank">262 Gateway Dirt Nationals (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/3HrQXGKErmM" target="_blank">263 Gateway Dirt Nationals</a>
       <br/>
@@ -339,11 +340,11 @@ function App() {
       <br/>
       <a href="https://youtu.be/qlxG9AsBNsM" target="_blank">295 Linda's Speedway</a>
       <br/>
-      <a href="https://youtu.be/4kswLpMLBF4" target="_blank">298 Gas City</a>
+      <a href="https://youtu.be/4kswLpMLBF4" target="_blank">298 Gas City (Hot Laps)</a>
       <br/>
-      <a href="https://youtu.be/xoRbvtpEJzQ" target="_blank">299 Gas City</a>
+      <a href="https://youtu.be/xoRbvtpEJzQ" target="_blank">299 Gas City (Qualifying)</a>
       <br/>
-      <a href="https://youtu.be/pIBlFa9WYj8" target="_blank">300 Gas City</a>
+      <a href="https://youtu.be/pIBlFa9WYj8" target="_blank">300 Gas City (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/Auzd6UR_TYk" target="_blank">301 Gas City Speedway</a>
       <br/>
@@ -353,7 +354,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/wWv5L3K__NM" target="_blank">305 Circle City Raceway</a>
       <br/>
-      <a href="https://youtu.be/pHBB1BI_WbE" target="_blank">307 Kokomo Speedway</a>
+      <a href="https://youtu.be/pHBB1BI_WbE" target="_blank">307 Kokomo Speedway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/LUqkfjRyD4M" target="_blank">308 Kokomo Speedway</a>
       <br/>
@@ -483,7 +484,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/obIVQYtoXcQ" target="_blank">392 Chili Bowl</a>
       <br/>
-      <a href="https://youtu.be/tz8qi0ii0wQ" target="_blank">394 Chili Bowl</a>
+      <a href="https://youtu.be/tz8qi0ii0wQ" target="_blank">394 Chili Bowl (Hot Laps)</a>
       <br/>
       <a href="https://youtu.be/hr5qomcL7us" target="_blank">395 Chili Bowl</a>
       <br/>
@@ -511,11 +512,11 @@ function App() {
       <br/>
       <a href="https://youtu.be/F78vhGVauvg" target="_blank">441 Hendry County Speedway</a>
       <br/>
-      <a href="https://youtu.be/RLHHb-SfU1I" target="_blank">442 Easy bay Raceway Park</a>
+      <a href="https://youtu.be/RLHHb-SfU1I" target="_blank">442 East Bay Raceway Park</a>
       <br/>
       <a href="https://youtu.be/7lYeVxoNIB8" target="_blank">443 Volusia Speedway Park</a>
       <br/>
-      <a href="https://youtu.be/PC90qMXKEWI" target="_blank">444 Bubba Raceway Park</a>
+      <a href="https://youtu.be/PC90qMXKEWI" target="_blank">444 Bubba Raceway Park (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/JxJFSBQrGfQ" target="_blank">446 Accord Speedway</a>
       <br/>
@@ -555,7 +556,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/V_CSouGeLcY" target="_blank">477 Action Track USA</a>
       <br/>
-      <a href="https://youtu.be/z5F29hFbHps" target="_blank">478 Lanco</a>
+      <a href="https://youtu.be/z5F29hFbHps" target="_blank">478 Lanco (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/afTjETpap5E" target="_blank">479 Lanco</a>
       <br/>
@@ -613,7 +614,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/innSzTHPBQQ" target="_blank">520 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/btumeU4oQ_8" target="_blank">521 Merced Raceway</a>
+      <a href="https://youtu.be/btumeU4oQ_8" target="_blank">521 Merced Raceway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/tdy0K-lN-vc" target="_blank">522 Merced Raceway</a>
       <br/>
@@ -623,17 +624,31 @@ function App() {
       <br/>
       <a href="https://youtu.be/s3Zdnxrn3jE" target="_blank">525 Merced Raceway</a>
       <br/>
-      <a href="https://youtu.be/D_nd52MdJZY" target="_blank">526 Ventura</a>
+      <a href="https://youtu.be/D_nd52MdJZY" target="_blank">526 Ventura Raceway</a>
       <br/>
       <a href="https://youtu.be/8LceqLfEDus" target="_blank">527 and 528 Ventura Raceway</a>
       <br/>
-      <a href="https://youtu.be/4e8pMbULF7k" target="_blank">529 Ventura Raceway</a>
+      <a href="https://youtu.be/4e8pMbULF7k" target="_blank">529 Ventura Raceway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/_pBXfbMUoMw" target="_blank">530 and 531 Ventura Raceway</a>
       <br/>
-      <a href="https://youtu.be/JE4mZQUrLoM" target="_blank">533 Gateway Dirt Nationals</a>
+      <a href="https://youtu.be/JE4mZQUrLoM" target="_blank">533 Gateway Dirt Nationals (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/iA_B2Y3ytmQ" target="_blank">534 Gateway Dirt Nationals</a>
+      <br/>
+      <a href="https://youtu.be/pZeW2tdMQ7A" target="_blank">548 Nitrodome At Planet Hollywod</a>
+      <br/>
+      <a href="https://youtu.be/b_arqrVV2P4" target="_blank">552 Sweet Springs Motorsports Complex</a>
+      <br/>
+      <a href="https://youtu.be/hoiPRQyQorE" target="_blank">553 Sweet Springs Motorsports Complex</a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
