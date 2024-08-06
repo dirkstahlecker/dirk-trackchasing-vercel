@@ -1,9 +1,11 @@
 import './App.css';
+import { Analytics } from "@vercel/analytics/react"
 //flip videos are on TrackchaserDirk youtube account
 
 function App() {
   return (
     <div className="App box">
+      <Analytics/>
       <h1 style={{color: "#FFF"}}>Dirk Trackchasing</h1>
       <p>Visit my official Trackchasing page&nbsp;
         <a href="http://www.roamingtheraceways.com/overall_individual.php?cid=303" 
@@ -89,6 +91,7 @@ function App() {
       <br/>
       <a href="/recaps/3-01-24_Nitrodome_at_Planet_Hollywood.pdf" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
       <br/>
+      <a href="/recaps/7-24-24_Ripley_County_Fairgrounds.pdf" target="_blank">7-24-24: Ripley County Fairgrounds</a>
       <br/>
       <hr/>
       <h3>Flips</h3>
@@ -120,7 +123,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/IlkOqt_bbzk" target="_blank">47 Gateway Dirt Nationals</a>
       <br/>
-      <a href="https://youtu.be/4f6jP6AI6Wk" target="_blank">53 exposition center</a>
+      <a href="https://youtu.be/4f6jP6AI6Wk" target="_blank">53 NY Exposition Center</a>
       <br/>
       <a href="https://youtu.be/cxjlwA8F7H0" target="_blank">60 New Egypt Speedway</a>
       <br/>
@@ -196,7 +199,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/vHso7KvLyAM" target="_blank">149 Selinsgrove Speedway</a>
       <br/>
-      <a href="https://youtu.be/bxHrYoygHOA" target="_blank">154 Big Diamond</a>
+      <a href="https://youtu.be/bxHrYoygHOA" target="_blank">154 Big Diamond Speedway</a>
       <br/>
       <a href="https://youtu.be/4g342y2U_yc" target="_blank">168 Kokomo Speedway (Qualifying)</a>
       <br/>
@@ -636,11 +639,25 @@ function App() {
       <br/>
       <a href="https://youtu.be/iA_B2Y3ytmQ" target="_blank">534 Gateway Dirt Nationals</a>
       <br/>
+      <a href="https://youtu.be/NaM890aCGcI" target="_blank">538 East Bay Raceway Park</a>
+      <br/>
       <a href="https://youtu.be/pZeW2tdMQ7A" target="_blank">548 Nitrodome At Planet Hollywod</a>
       <br/>
       <a href="https://youtu.be/b_arqrVV2P4" target="_blank">552 Sweet Springs Motorsports Complex</a>
       <br/>
       <a href="https://youtu.be/hoiPRQyQorE" target="_blank">553 Sweet Springs Motorsports Complex</a>
+      <br/>
+      <a href="https://youtu.be/2Q-6KZ4ufjI" target="_blank">554 Action Track USA</a>
+      <br/>
+      <a href="https://youtu.be/-BGfQFEAMqU" target="_blank">556 Big Diamond Speedway</a>
+      <br/>
+      <a href="https://youtu.be/LctEh-O9hJo" target="_blank">557 William's Grove Speedway</a>
+      <br/>
+      <a href="https://youtu.be/8aP5XogXIpQ" target="_blank">562 Humberstone Speedway</a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
