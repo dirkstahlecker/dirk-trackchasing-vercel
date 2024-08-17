@@ -91,7 +91,13 @@ function App() {
       <br/>
       <a href="/recaps/3-01-24_Nitrodome_at_Planet_Hollywood.pdf" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
       <br/>
-      <a href="/recaps/7-24-24_Ripley_County_Fairgrounds.pdf" target="_blank">7-24-24: Ripley County Fairgrounds</a>
+      <a href="/recaps/4-06-24_Eagle_Canyon_Raceway.pdf" target="_blank">4-06-24: Eagle Canyon Raceway</a>
+      <br/>
+      <a href="/recaps/7-25-24_Ripley_County_Fairgrounds.pdf" target="_blank">7-25-24: Ripley County Fairgrounds</a>
+      <br/>
+      <a href="/recaps/7-25-24_Brownstown_Speedway.pdf" target="_blank">7-25-24: Brownstown Speedway</a>
+      <br/>
+      <a href="/recaps/8-01-24_Terre_Haute_Action_Track.pdf" target="_blank">8-01-24: Terre Haute Action Track</a>
       <br/>
       <hr/>
       <h3>Flips</h3>
