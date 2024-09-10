@@ -661,17 +661,17 @@ function App() {
       <br/>
       <a href="https://youtu.be/8aP5XogXIpQ" target="_blank">562 Humberstone Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/AJrGl1o5Uz0" target="_blank">570 Lawrenceburg Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/h_OK-j2rbjE" target="_blank">571 and 572 Lawrenceburg Speedway.mp4</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/rCu9jvwkZzA" target="_blank">573 Lawrenceburg Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/O1SPJ-D673E" target="_blank">574 Circle City Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/9GZavkWmY2A" target="_blank">575 Circle City Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/qIQAjzhzsfk" target="_blank">576 Circle City Raceway</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
