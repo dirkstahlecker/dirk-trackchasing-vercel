@@ -673,9 +673,9 @@ function App() {
       <br/>
       <a href="https://youtu.be/qIQAjzhzsfk" target="_blank">576 Circle City Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/8AatX3fR2BQ" target="_blank">587 MX101</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
