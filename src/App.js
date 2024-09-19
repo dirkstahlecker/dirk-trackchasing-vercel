@@ -113,7 +113,7 @@ function App() {
       <br/>
       <a href="/recaps/9-01-24_Angell_Park_Speedway.pdf" target="_blank">9-01-24: Angell Park Speedway</a>
       <br/>
-      <a href="/recaps/9-09-24_508_International.pdf" target="_blank">9-08-24: 508 International</a>
+      <a href="/recaps/9-08-24_508_International.pdf" target="_blank">9-08-24: 508 International</a>
       <br/>
       <hr/>
       <h3>Flips</h3>
