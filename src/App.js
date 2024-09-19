@@ -91,6 +91,10 @@ function App() {
       <br/>
       <a href="/recaps/3-01-24_Nitrodome_at_Planet_Hollywood.pdf" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
       <br/>
+      <a href="/recaps/5-17-24_Lakeside_Speedway.pdf" target="_blank">5-17-24: Lakeside Speedway</a>
+      <br/>
+      <a href="/recaps/5-19-24_Sweet_Springs_Motorsports_Complex.pdf" target="_blank">5-19-24: Sweet Springs Motorsports Complex</a>
+      <br/>
       <a href="/recaps/4-06-24_Eagle_Canyon_Raceway.pdf" target="_blank">4-06-24: Eagle Canyon Raceway</a>
       <br/>
       <a href="/recaps/7-25-24_Ripley_County_Fairgrounds.pdf" target="_blank">7-25-24: Ripley County Fairgrounds</a>
@@ -103,9 +107,13 @@ function App() {
       <br/>
       <a href="/recaps/8-25-24_MX101.pdf" target="_blank">8-25-24: MX101</a>
       <br/>
+      <a href="/recaps/8-31-24_The_Milwaukee_Mile.pdf" target="_blank">8-31-24: The Milwaukee Mile</a>
+      <br/>
       <a href="/recaps/8-31-24_Jefferson_Speedway.pdf" target="_blank">8-31-24: Jefferson Speedway</a>
       <br/>
       <a href="/recaps/9-01-24_Angell_Park_Speedway.pdf" target="_blank">9-01-24: Angell Park Speedway</a>
+      <br/>
+      <a href="/recaps/9-09-24_508_International.pdf" target="_blank">9-08-24: 508 International</a>
       <br/>
       <hr/>
       <h3>Flips</h3>
@@ -669,6 +677,10 @@ function App() {
       <br/>
       <a href="https://youtu.be/8aP5XogXIpQ" target="_blank">562 Humberstone Speedway</a>
       <br/>
+      <a href="https://youtu.be/wabN9ipLtrs" target="_blank">568 Kokomo Speedway</a>
+      <br/>
+      <a href="https://youtu.be/_XU12Ac0uhQ" target="_blank">569 Kokomo Speedway</a>
+      <br/>
       <a href="https://youtu.be/AJrGl1o5Uz0" target="_blank">570 Lawrenceburg Speedway</a>
       <br/>
       <a href="https://youtu.be/h_OK-j2rbjE" target="_blank">571 and 572 Lawrenceburg Speedway.mp4</a>
@@ -681,21 +693,15 @@ function App() {
       <br/>
       <a href="https://youtu.be/qIQAjzhzsfk" target="_blank">576 Circle City Raceway</a>
       <br/>
-      <a href="https://youtu.be/8AatX3fR2BQ" target="_blank">587 MX101</a>
+      <a href="https://youtu.be/mYs3ime09O8" target="_blank">584 Bloomington Speedway</a>
       <br/>
-      <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
+      <a href="https://youtu.be/OMgb4q4_gIg" target="_blank">585 Bloomington Speedway</a>
       <br/>
       <a href="https://youtu.be/aZLnIvVcQtA" target="_blank">586 Bloomington Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/8AatX3fR2BQ" target="_blank">587 MX101</a>
       <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
