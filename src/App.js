@@ -115,6 +115,14 @@ function App() {
       <br/>
       <a href="/recaps/9-08-24_508_International.pdf" target="_blank">9-08-24: 508 International</a>
       <br/>
+      <a href="/recaps/11-16-24_Buttonwillow_Raceway_Park.pdf" target="_blank">11-16-24: Buttonwillow Raceway Park</a>
+      <br/>
+      <a href="/recaps/11-16-24_Kern_County_Inner_Oval.pdf" target="_blank">11-16-24: Kevin Harvick's Kern Raceway (Inner Asphalt Oval)</a>
+      <br/>
+      <a href="/recaps/11-20-24_Tulare_Speedway.pdf" target="_blank">11-20-24: Tulare Speedway</a>
+      <br/>
+      <br/>
+      <br/>
       <hr/>
       <h3>Flips</h3>
 
@@ -683,7 +691,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/AJrGl1o5Uz0" target="_blank">570 Lawrenceburg Speedway</a>
       <br/>
-      <a href="https://youtu.be/h_OK-j2rbjE" target="_blank">571 and 572 Lawrenceburg Speedway.mp4</a>
+      <a href="https://youtu.be/h_OK-j2rbjE" target="_blank">571 and 572 Lawrenceburg Speedway</a>
       <br/>
       <a href="https://youtu.be/rCu9jvwkZzA" target="_blank">573 Lawrenceburg Speedway</a>
       <br/>
