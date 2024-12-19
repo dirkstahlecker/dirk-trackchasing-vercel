@@ -687,7 +687,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/8aP5XogXIpQ" target="_blank">562 Humberstone Speedway</a>
       <br/>
-      <a href="https://youtu.be/wabN9ipLtrs" target="_blank">568 Kokomo Speedway</a>
+      <a href="https://youtu.be/PA1k7HZa2eg" target="_blank">568 Kokomo Speedway</a>
       <br/>
       <a href="https://youtu.be/_XU12Ac0uhQ" target="_blank">569 Kokomo Speedway</a>
       <br/>
@@ -713,9 +713,9 @@ function App() {
       <br/>
       <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/uZ8KG_qgnfQ" target="_blank">593 Merced Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/9EAWxI2PHt0" target="_blank">594 Merced Speedway</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
