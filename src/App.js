@@ -673,6 +673,12 @@ function App() {
       <br/>
       <a href="https://youtu.be/NaM890aCGcI" target="_blank">538 East Bay Raceway Park</a>
       <br/>
+      <a href="https://youtu.be/PrYvXCxlNWE" target="_blank">539 and 540 East Bay Raceway Park</a>
+      <br/>
+      <a href="https://youtu.be/-6-IYjobKrY" target="_blank">541 East Bay Raceway Park</a>
+      <br/>
+      <a href="https://youtu.be/CMv2ijmm0dA" target="_blank">542 and 543 East Bay Raceway Park</a>
+      <br/>
       <a href="https://youtu.be/pZeW2tdMQ7A" target="_blank">548 Nitrodome At Planet Hollywod</a>
       <br/>
       <a href="https://youtu.be/b_arqrVV2P4" target="_blank">552 Sweet Springs Motorsports Complex</a>
@@ -716,6 +722,30 @@ function App() {
       <a href="https://youtu.be/uZ8KG_qgnfQ" target="_blank">593 Merced Speedway</a>
       <br/>
       <a href="https://youtu.be/9EAWxI2PHt0" target="_blank">594 Merced Speedway</a>
+      <br/>
+      <a href="https://youtu.be/ETPpqCxaS7Q" target="_blank">595 Merced Speedway</a>
+      <br/>
+      <a href="https://youtu.be/hgz2pBpdNUg" target="_blank">596 Merced Speedway</a>
+      <br/>
+      <a href="https://youtu.be/mep4R0741yM" target="_blank">609 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/V5Pi7w8Sy7U" target="_blank">608 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/6Ppu-6g3KFM" target="_blank">612 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/4rlYq_AJHGE" target="_blank">544 East Bay Raceway Park</a>
+      <br/>
+      <a href="https://youtu.be/rd1oj-X5OKY" target="_blank">545 East Bay Raceway Park</a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
