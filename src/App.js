@@ -383,7 +383,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/Auzd6UR_TYk" target="_blank">301 Gas City Speedway</a>
       <br/>
-      <a href="https://youtu.be/yOslBVhxWYc" target="_blank">302 Gas City Speedway</a>
+      <a href="https://youtu.be/g2sLtG_cMoQ" target="_blank">302 Gas City Speedway</a>
       <br/>
       <a href="https://youtu.be/O5FopRxJza8" target="_blank">303 Gas City Speedway</a>
       <br/>
@@ -613,13 +613,17 @@ function App() {
       <br/>
       <a href="https://youtu.be/E5CMHOP_WfQ" target="_blank">490 Path Valley Speedway Park</a>
       <br/>
-      <a href="https://youtu.be/_E7yOYQc_gg" target="_blank">492 Stockton Dirt Track</a>
+      <a href="https://youtu.be/-4TTgOD0etU" target="_blank">491 and 492 Devil's Bowl Speedway (TX)</a>
+      <br/>
+      <a href="https://youtu.be/_E7yOYQc_gg" target="_blank">493 Stockton Dirt Track</a>
       <br/>
       <a href="https://youtu.be/d4WoQU1iqRo" target="_blank">494 SBC Fairgrounds</a>
       <br/>
       <a href="https://youtu.be/TD1qBF7d7NA" target="_blank">497 SBC Fairgrounds</a>
       <br/>
       <a href="https://youtu.be/tcFTI27JF6w" target="_blank">498 SBC Fairgrounds</a>
+      <br/>
+      <a href="https://youtu.be/ZToStRlIrO4" target="_blank">499 Wild Horse Pass</a>
       <br/>
       <a href="https://youtu.be/yJrR--V_cEg" target="_blank">500 Wild Horse Pass</a>
       <br/>
@@ -723,9 +727,9 @@ function App() {
       <br/>
       <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
       <br/>
-      <a href="https://youtu.be/_o2bvWD6mvE" target="_blank">593 Merced Speedway</a>
+      <a href="https://youtu.be/_o2bvWD6mvE" target="_blank">593 Merced Speedway (Qualifying)</a>
       <br/>
-      <a href="https://youtu.be/9EAWxI2PHt0" target="_blank">594 Merced Speedway</a>
+      <a href="https://youtu.be/9EAWxI2PHt0" target="_blank">594 Merced Speedway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/ETPpqCxaS7Q" target="_blank">595 Merced Speedway</a>
       <br/>
@@ -733,11 +737,9 @@ function App() {
       <br/>
       <a href="https://youtu.be/V5Pi7w8Sy7U" target="_blank">608 Ventura Raceway</a>
       <br/>
-      <a href="https://youtu.be/mep4R0741yM" target="_blank">609 Ventura Raceway</a>
+      <a href="https://youtu.be/mep4R0741yM" target="_blank">609 Ventura Raceway (Practice)</a>
       <br/>
       <a href="https://youtu.be/6Ppu-6g3KFM" target="_blank">612 Ventura Raceway</a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
