@@ -717,6 +717,12 @@ function App() {
       <br/>
       <a href="https://youtu.be/qIQAjzhzsfk" target="_blank">576 Circle City Raceway</a>
       <br/>
+      <a href="https://youtu.be/QpCHkLIG4VU" target="_blank">577 and 578 Bloomington Raceway</a>
+      <br/>
+      <a href="https://youtu.be/Uz8EhyGNON0" target="_blank">579 Federated Autoparts Raceway at I-55 (Qualifying)</a>
+      <br/>
+      <a href="https://youtu.be/Y-KaL6Lqwm8" target="_blank">582 Federated Autoparts Raceway at I-55</a>
+      <br/>
       <a href="https://youtu.be/mYs3ime09O8" target="_blank">584 Bloomington Speedway</a>
       <br/>
       <a href="https://youtu.be/OMgb4q4_gIg" target="_blank">585 Bloomington Speedway</a>
@@ -726,6 +732,10 @@ function App() {
       <a href="https://youtu.be/8AatX3fR2BQ" target="_blank">587 MX101</a>
       <br/>
       <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
+      <br/>
+      <a href="https://youtu.be/CaaE_d7QfWg" target="_blank">590 Tulare Thunderbowl Raceway</a>
+      <br/>
+      <a href="https://youtu.be/43A6qY_tLew" target="_blank">592 Tulare Thunderbowl Raceway</a>
       <br/>
       <a href="https://youtu.be/_o2bvWD6mvE" target="_blank">593 Merced Speedway (Qualifying)</a>
       <br/>
@@ -741,19 +751,9 @@ function App() {
       <br/>
       <a href="https://youtu.be/6Ppu-6g3KFM" target="_blank">612 Ventura Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/N38cpqYlY6k" target="_blank">616 PPL Center</a>
       <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/78HTJzL-Cew" target="_blank">617 PPL Center</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
