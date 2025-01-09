@@ -739,11 +739,11 @@ function App() {
       <br/>
       <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
       <br/>
-      <a href="https://youtu.be/CaaE_d7QfWg" target="_blank">590 Tulare Thunderbowl Raceway</a>
+      <a href="https://youtu.be/CaaE_d7QfWg" target="_blank">590 Tulare Thunderbowl Speedway</a>
       <br/>
       <a href="https://youtu.be/BkcG7pY739s" target="_blank">591 Tulare Thunderbowl Speedway</a>
       <br/>
-      <a href="https://youtu.be/43A6qY_tLew" target="_blank">592 Tulare Thunderbowl Raceway</a>
+      <a href="https://youtu.be/43A6qY_tLew" target="_blank">592 Tulare Thunderbowl Speedway</a>
       <br/>
       <a href="https://youtu.be/_o2bvWD6mvE" target="_blank">593 Merced Speedway (Qualifying)</a>
       <br/>
@@ -752,6 +752,16 @@ function App() {
       <a href="https://youtu.be/ETPpqCxaS7Q" target="_blank">595 Merced Speedway</a>
       <br/>
       <a href="https://youtu.be/hgz2pBpdNUg" target="_blank">596 Merced Speedway</a>
+      <br/>
+      <a href="https://youtu.be/V9ir3XoXc80" target="_blank">602 Bakersfield Speedway (Hot Laps)</a>
+      <br/>
+      <a href="https://youtu.be/_pfKyN990KQ" target="_blank">604 Bakersfield Speedway</a>
+      <br/>
+      <a href="https://youtu.be/EVGbFtce_7U" target="_blank">605 Bakersfield Speedway</a>
+      <br/>
+      <a href="https://youtu.be/Pb5iYAt_pto" target="_blank">606 Bakersfield Speedway</a>
+      <br/>
+      <a href="https://youtu.be/H0zeRF4_Zr4" target="_blank">607 Bakersfield Speedway</a>
       <br/>
       <a href="https://youtu.be/V5Pi7w8Sy7U" target="_blank">608 Ventura Raceway</a>
       <br/>
@@ -766,16 +776,6 @@ function App() {
       <a href="https://youtu.be/N38cpqYlY6k" target="_blank">616 PPL Center</a>
       <br/>
       <a href="https://youtu.be/78HTJzL-Cew" target="_blank">617 PPL Center</a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
