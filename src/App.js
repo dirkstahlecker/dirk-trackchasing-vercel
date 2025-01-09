@@ -687,6 +687,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/rd1oj-X5OKY" target="_blank">545 East Bay Raceway Park</a>
       <br/>
+      <a href="https://youtu.be/DpBxFqaiSTY" target="_blank">546 Daytona International Speedway</a>
+      <br/>
       <a href="https://youtu.be/pZeW2tdMQ7A" target="_blank">548 Nitrodome At Planet Hollywod</a>
       <br/>
       <a href="https://youtu.be/b_arqrVV2P4" target="_blank">552 Sweet Springs Motorsports Complex</a>
@@ -700,6 +702,8 @@ function App() {
       <a href="https://youtu.be/LctEh-O9hJo" target="_blank">557 William's Grove Speedway</a>
       <br/>
       <a href="https://youtu.be/8aP5XogXIpQ" target="_blank">562 Humberstone Speedway</a>
+      <br/>
+      <a href="https://youtu.be/JzP68GrTIIg" target="_blank">563 Lincoln Park Raceway (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/PA1k7HZa2eg" target="_blank">568 Kokomo Speedway</a>
       <br/>
@@ -723,6 +727,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/Y-KaL6Lqwm8" target="_blank">582 Federated Autoparts Raceway at I-55</a>
       <br/>
+      <a href="https://youtu.be/3RH9Lbg8N9g" target="_blank">583 Federated Auto Parts Raceway at I-55</a>
+      <br/>
       <a href="https://youtu.be/mYs3ime09O8" target="_blank">584 Bloomington Speedway</a>
       <br/>
       <a href="https://youtu.be/OMgb4q4_gIg" target="_blank">585 Bloomington Speedway</a>
@@ -734,6 +740,8 @@ function App() {
       <a href="https://youtu.be/TMyavuusKok" target="_blank">588 Angell Park Speedway</a>
       <br/>
       <a href="https://youtu.be/CaaE_d7QfWg" target="_blank">590 Tulare Thunderbowl Raceway</a>
+      <br/>
+      <a href="https://youtu.be/BkcG7pY739s" target="_blank">591 Tulare Thunderbowl Speedway</a>
       <br/>
       <a href="https://youtu.be/43A6qY_tLew" target="_blank">592 Tulare Thunderbowl Raceway</a>
       <br/>
@@ -749,11 +757,39 @@ function App() {
       <br/>
       <a href="https://youtu.be/mep4R0741yM" target="_blank">609 Ventura Raceway (Practice)</a>
       <br/>
+      <a href="https://youtu.be/O12N3tsPKuw" target="_blank">610 Ventura Raceway (Practice)</a>
+      <br/>
       <a href="https://youtu.be/6Ppu-6g3KFM" target="_blank">612 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/3n5G9GF2P0M" target="_blank">614 Ventura Raceway</a>
       <br/>
       <a href="https://youtu.be/N38cpqYlY6k" target="_blank">616 PPL Center</a>
       <br/>
       <a href="https://youtu.be/78HTJzL-Cew" target="_blank">617 PPL Center</a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
