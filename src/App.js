@@ -755,6 +755,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/V9ir3XoXc80" target="_blank">602 Bakersfield Speedway (Hot Laps)</a>
       <br/>
+      <a href="https://youtu.be/GBDGItGy1qA" target="_blank">603 Bakersfield Speedway</a>
+      <br/>
       <a href="https://youtu.be/_pfKyN990KQ" target="_blank">604 Bakersfield Speedway</a>
       <br/>
       <a href="https://youtu.be/EVGbFtce_7U" target="_blank">605 Bakersfield Speedway</a>
@@ -776,8 +778,6 @@ function App() {
       <a href="https://youtu.be/N38cpqYlY6k" target="_blank">616 PPL Center</a>
       <br/>
       <a href="https://youtu.be/78HTJzL-Cew" target="_blank">617 PPL Center</a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
