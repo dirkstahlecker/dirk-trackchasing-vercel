@@ -531,6 +531,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/xxDIKL8vZqA" target="_blank">399 Chili Bowl</a>
       <br/>
+      <a href="https://youtu.be/lm6m_cpDwyQ" target="_blank">400 Chili Bowl</a>
+      <br/>
       <a href="https://youtu.be/gjcyxexwdgw" target="_blank">401 Chili Bowl</a>
       <br/>
       <a href="https://youtu.be/xw-raTqbEEA" target="_blank">402 Chili Bowl</a>
@@ -538,6 +540,14 @@ function App() {
       <a href="https://youtu.be/nYV_ffrFDUU" target="_blank">403 Chili Bowl</a>
       <br/>
       <a href="https://youtu.be/81I09Mdmvs4" target="_blank">404 Chili Bowl</a>
+      <br/>
+      <a href="https://youtu.be/ZIDw8rWgemY" target="_blank">405 Chili Bowl</a>
+      <br/>
+      <a href="https://youtu.be/KITiuSIL8vg" target="_blank">407 Chili Bowl</a>
+      <br/>
+      <a href="https://youtu.be/hP2blh293BE" target="_blank">408 Chili Bowl</a>
+      <br/>
+      <a href="https://youtu.be/VEvwUyk0j4Q" target="_blank">409 Chili Bowl</a>
       <br/>
       <a href="https://youtu.be/NwOPwKRkvsE" target="_blank">417 Chili Bowl</a>
       <br/>
@@ -552,6 +562,8 @@ function App() {
       <a href="https://youtu.be/7lYeVxoNIB8" target="_blank">443 Volusia Speedway Park</a>
       <br/>
       <a href="https://youtu.be/PC90qMXKEWI" target="_blank">444 Bubba Raceway Park (Qualifying)</a>
+      <br/>
+      <a href="https://youtu.be/VDEFunO9rEI" target="_blank">445 Daytona International Speedway</a>
       <br/>
       <a href="https://youtu.be/JxJFSBQrGfQ" target="_blank">446 Accord Speedway</a>
       <br/>
@@ -578,6 +590,8 @@ function App() {
       <a href="https://youtu.be/GyE4YnGSlMI" target="_blank">462 Macon Speedway</a>
       <br/>
       <a href="https://youtu.be/K712UQf9huQ" target="_blank">463 Macon Speedway</a>
+      <br/>
+      <a href="https://youtu.be/rUOUaxyA_O0" target="_blank">464 Macon Speedway</a>
       <br/>
       <a href="https://youtu.be/K2rGHSUQyn8" target="_blank">466 Macon Speedway</a>
       <br/>
@@ -778,6 +792,20 @@ function App() {
       <a href="https://youtu.be/N38cpqYlY6k" target="_blank">616 PPL Center</a>
       <br/>
       <a href="https://youtu.be/78HTJzL-Cew" target="_blank">617 PPL Center</a>
+      <br/>
+      <a href="https://youtu.be/MnTGvoJi8Rc" target="_blank">619 Ocala Raceway</a>
+      <br/>
+      <a href="https://youtu.be/pf-6FGUuVjs" target="_blank">621 Ocala Raceway</a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
