@@ -137,7 +137,7 @@ function App() {
 
       <a href="https://youtu.be/a1qwU1SYpYk" target="_blank">22 Seekonk Speedway</a>
       <br/>
-      <a href="https://youtu.be/4i868jFmovM" target="_blank">25 Wall Stadium Speewday</a>
+      <a href="https://youtu.be/4i868jFmovM" target="_blank">25 Wall Stadium Speedwday</a>
       <br/>
       <a href="https://youtu.be/QvqZ5S9ngBc" target="_blank">26 Wall Stadium Speedway</a>
       <br/>
@@ -797,7 +797,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/pf-6FGUuVjs" target="_blank">621 Ocala Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtube.com/shorts/WlSyVhJqW-I" target="_blank">624 Albany-Saratoga Speedway (Hot Laps)</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
