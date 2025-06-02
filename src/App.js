@@ -789,6 +789,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/3n5G9GF2P0M" target="_blank">614 Ventura Raceway</a>
       <br/>
+      <a href="https://youtu.be/B2cYCKM6cDw" target="_blank">615 Gateway Dirt Nationals</a>
+      <br/>
       <a href="https://youtu.be/N38cpqYlY6k" target="_blank">616 PPL Center</a>
       <br/>
       <a href="https://youtu.be/78HTJzL-Cew" target="_blank">617 PPL Center</a>
@@ -799,17 +801,15 @@ function App() {
       <br/>
       <a href="https://youtube.com/shorts/WlSyVhJqW-I" target="_blank">624 Albany-Saratoga Speedway (Hot Laps)</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/E39He8PirGA" target="_blank">622 Daytona International Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/EG1BG_3H3kc" target="_blank">628 Kokomo Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/sJyLnEqptuw" target="_blank">629 and 630 Kokomo Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/BjgQNYA5ngk" target="_blank">631 Kokomo Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/p1gN7szpq-s" target="_blank">636 Action Track USA</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
