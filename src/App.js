@@ -737,9 +737,9 @@ function App() {
       <br/>
       <a href="https://youtu.be/QpCHkLIG4VU" target="_blank">577 and 578 Bloomington Raceway</a>
       <br/>
-      <a href="https://youtu.be/Uz8EhyGNON0" target="_blank">579 Federated Autoparts Raceway at I-55 (Qualifying)</a>
+      <a href="https://youtu.be/Uz8EhyGNON0" target="_blank">579 Federated Auto Parts Raceway at I-55 (Qualifying)</a>
       <br/>
-      <a href="https://youtu.be/Y-KaL6Lqwm8" target="_blank">582 Federated Autoparts Raceway at I-55</a>
+      <a href="https://youtu.be/Y-KaL6Lqwm8" target="_blank">582 Federated Auto Parts Raceway at I-55</a>
       <br/>
       <a href="https://youtu.be/3RH9Lbg8N9g" target="_blank">583 Federated Auto Parts Raceway at I-55</a>
       <br/>
@@ -811,19 +811,19 @@ function App() {
       <br/>
       <a href="https://youtu.be/p1gN7szpq-s" target="_blank">636 Action Track USA</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/8Qt4w8D3pIA" target="_blank">647 Action Track USA</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/A5IGDwRid90" target="_blank">648 Action Track USA</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/CEWYz2bbW74" target="_blank">649 Action Track USA</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/6X6wtoV3I9Y" target="_blank">650, 651, and 652 Action Track USA</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/kcpXDx0XEYc" target="_blank">653 Action Track USA</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/xO4WObMq2Hk" target="_blank">667 Circle City Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/oLJAzuZgjOw" target="_blank">670 Albany-Saratoga Speedway</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
