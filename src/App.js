@@ -119,25 +119,25 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1vQqZS5ClIZKhrPxOMv_zqQmrriGI8ISydW4gftnUw4U/edit?usp=drive_link" target="_blank">11-16-24: Buttonwillow Raceway Park</a>
       <br/>
-      <a href="/recaps/11-16-24_Kern_County_Inner_Oval.pdf" target="_blank">11-16-24: Kevin Harvick's Kern Raceway (Inner Asphalt Oval)</a>
+      <a href="https://docs.google.com/document/d/1bWEHm2ZljZ316-j-NqjfHKeGgwgKbzk5oKXxGjYlVsc/edit?usp=drive_link" target="_blank">11-16-24: Kevin Harvick's Kern Raceway (Inner Asphalt Oval)</a>
       <br/>
       <a href="https://docs.google.com/document/d/1Kd3u5djapJMpt2fZ85sXF-Cy_Sl6206c168o75GeKKA/edit?usp=drive_link" target="_blank">11-20-24: Tulare Thunderbowl Raceway</a>
       <br/>
-      <a href="/recaps/4-18-25_Wake_County_Speedway.pdf" target="_blank">4-18-25: Wake County Speedway</a>
+      <a href="https://docs.google.com/document/d/1VN4FkUmFSQJBjiOcjACULZQOGJeu9gsLkiPC6Ogz1JY/edit?usp=drive_link" target="_blank">4-18-25: Wake County Speedway</a>
       <br/>
-      <a href="/recaps/4-19-25_Rockfish_Speedway.pdf" target="_blank">4-19-25: Rockfish Speedway</a>
+      <a href="https://docs.google.com/document/d/1ugSALJN3lRRIa1ROZpWqXtk3PBh14uOVLqGRCiQwfrw/edit?usp=drive_link" target="_blank">4-19-25: Rockfish Speedway</a>
       <br/>
-      <a href="/recaps/5-24-25_Anderson_Speedway.pdf" target="_blank">5-24-25: Anderson Speedway</a>
+      <a href="https://docs.google.com/document/d/1qXba2SIzzNzfO5ktpo2wlCqyfGby0KhDbRLSDxeZcjY/edit?usp=drive_link" target="_blank">5-24-25: Anderson Speedway</a>
       <br/>
-      <a href="/recaps/6-28-25_Oswego_Speedway.pdf" target="_blank">6-28-25: Oswego Speedway</a>
+      <a href="https://docs.google.com/document/d/1zvnP-r7mcl-hbU_Gik7V-MejmsSeHpdalVO4QJ_EX8U/edit?usp=drive_link" target="_blank">6-28-25: Oswego Speedway</a>
       <br/>
-      <a href="/recaps/6-29-25_Millstream_Speedway.pdf" target="_blank">6-29-25: Millstream Speedway</a>
+      <a href="https://docs.google.com/document/d/1lckD_YOC614Mg_ox7WqhSmP2J2nHvpNX2EVBMakDXi0/edit?usp=drive_link" target="_blank">6-29-25: Millstream Speedway</a>
       <br/>
-      <a href="/recaps/7-11-25_Gallatin_Speedway.pdf" target="_blank">7-11-25: Gallatin Speedway</a>
+      <a href="https://docs.google.com/document/d/1UN0_yb-HXSpDZXEfi82VPwdQHer1aWVofKuiX9hQo-U/edit?usp=drive_link" target="_blank">7-11-25: Gallatin Speedway</a>
       <br/>
-      <a href="/recaps/7-12-25_Electric_City_Speedway.pdf" target="_blank">7-12-25: Electric City Speedway</a>
+      <a href="https://docs.google.com/document/d/1sFMHo-Gx11-kRSFkw76sgEdmuh0oP2zZmja7fT0nItk/edit?usp=drive_link" target="_blank">7-12-25: Electric City Speedway</a>
       <br/>
-      <a href="/recaps/7-26-25_US_24_Speedway.pdf" target="_blank">7-26-25: US 24 Speedway</a>
+      <a href="https://docs.google.com/document/d/1Np7_yEx0SZqQJL_ECz-rq2qZTsrLKKD5OD4bKH8FNy8/edit?usp=drive_link" target="_blank">7-26-25: US 24 Speedway</a>
       <br/>
       <br/>
       <br/>
