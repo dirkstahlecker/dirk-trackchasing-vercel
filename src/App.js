@@ -121,7 +121,23 @@ function App() {
       <br/>
       <a href="/recaps/11-16-24_Kern_County_Inner_Oval.pdf" target="_blank">11-16-24: Kevin Harvick's Kern Raceway (Inner Asphalt Oval)</a>
       <br/>
-      <a href="/recaps/11-20-24_Tulare_Thunderbowl_Raceway.pdf" target="_blank">11-20-24: Tulare Thunderbowl Raceway</a>
+      <a href="https://docs.google.com/document/d/1Kd3u5djapJMpt2fZ85sXF-Cy_Sl6206c168o75GeKKA/edit?usp=drive_link" target="_blank">11-20-24: Tulare Thunderbowl Raceway</a>
+      <br/>
+      <a href="/recaps/4-18-25_Wake_County_Speedway.pdf" target="_blank">4-18-25: Wake County Speedway</a>
+      <br/>
+      <a href="/recaps/4-19-25_Rockfish_Speedway.pdf" target="_blank">4-19-25: Rockfish Speedway</a>
+      <br/>
+      <a href="/recaps/5-24-25_Anderson_Speedway.pdf" target="_blank">5-24-25: Anderson Speedway</a>
+      <br/>
+      <a href="/recaps/6-28-25_Oswego_Speedway.pdf" target="_blank">6-28-25: Oswego Speedway</a>
+      <br/>
+      <a href="/recaps/6-29-25_Millstream_Speedway.pdf" target="_blank">6-29-25: Millstream Speedway</a>
+      <br/>
+      <a href="/recaps/7-11-25_Gallatin_Speedway.pdf" target="_blank">7-11-25: Gallatin Speedway</a>
+      <br/>
+      <a href="/recaps/7-12-25_Electric_City_Speedway.pdf" target="_blank">7-12-25: Electric City Speedway</a>
+      <br/>
+      <a href="/recaps/7-26-25_US_24_Speedway.pdf" target="_blank">7-26-25: US 24 Speedway</a>
       <br/>
       <br/>
       <br/>
@@ -767,6 +783,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/hgz2pBpdNUg" target="_blank">596 Merced Speedway</a>
       <br/>
+      <a href="https://youtu.be/GHR91klDvtI" target="_blank">597  Merced Speedway</a>
+      <br/>
       <a href="https://youtu.be/V9ir3XoXc80" target="_blank">602 Bakersfield Speedway (Hot Laps)</a>
       <br/>
       <a href="https://youtu.be/GBDGItGy1qA" target="_blank">603 Bakersfield Speedway</a>
@@ -799,9 +817,9 @@ function App() {
       <br/>
       <a href="https://youtu.be/pf-6FGUuVjs" target="_blank">621 Ocala Raceway</a>
       <br/>
-      <a href="https://youtube.com/shorts/WlSyVhJqW-I" target="_blank">624 Albany-Saratoga Speedway (Hot Laps)</a>
-      <br/>
       <a href="https://youtu.be/E39He8PirGA" target="_blank">622 Daytona International Speedway</a>
+      <br/>
+      <a href="https://youtube.com/shorts/WlSyVhJqW-I" target="_blank">624 Albany-Saratoga Speedway (Hot Laps)</a>
       <br/>
       <a href="https://youtu.be/EG1BG_3H3kc" target="_blank">628 Kokomo Speedway</a>
       <br/>
@@ -821,19 +839,17 @@ function App() {
       <br/>
       <a href="https://youtu.be/kcpXDx0XEYc" target="_blank">653 Action Track USA</a>
       <br/>
-      <a href="https://youtu.be/xO4WObMq2Hk" target="_blank">667 Circle City Raceway</a>
+      <a href="https://youtu.be/CuLJAdXTW9c" target="_blank">655 Millstream Speedway</a>
+      <br/>
+      <a href="https://youtu.be/xO4WObMq2Hk" target="_blank">667 Circle City Raceway (Qualifying)</a>
+      <br/>
+      <a href="https://youtu.be/KuGarY6tgF4" target="_blank">668 Terre Haute Action Track (Qualifying)</a>
+      <br/>
+      <a href="https://youtu.be/Mj2xB4CBLao" target="_blank">669 Terre Haute Action Track</a>
       <br/>
       <a href="https://youtu.be/oLJAzuZgjOw" target="_blank">670 Albany-Saratoga Speedway</a>
       <br/>
       <a href="https://youtu.be/ici05w6YN7s" target="_blank">671 Albany-Saratoga Speedway</a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
