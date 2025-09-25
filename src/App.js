@@ -117,7 +117,7 @@ function App() {
       <br/>
       <a href="/recaps/9-14-24_Sportsdrome_Speedway.pdf" target="_blank">9-14-24: Sportsdrome Speedway</a>
       <br/>
-      <a href="/recaps/11-16-24_Buttonwillow_Raceway_Park.pdf" target="_blank">11-16-24: Buttonwillow Raceway Park</a>
+      <a href="https://docs.google.com/document/d/1vQqZS5ClIZKhrPxOMv_zqQmrriGI8ISydW4gftnUw4U/edit?usp=drive_link" target="_blank">11-16-24: Buttonwillow Raceway Park</a>
       <br/>
       <a href="/recaps/11-16-24_Kern_County_Inner_Oval.pdf" target="_blank">11-16-24: Kevin Harvick's Kern Raceway (Inner Asphalt Oval)</a>
       <br/>
