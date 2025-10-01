@@ -149,13 +149,13 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1sFMHo-Gx11-kRSFkw76sgEdmuh0oP2zZmja7fT0nItk/edit?usp=drive_link" target="_blank">7-12-25: Electric City Speedway</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1-vVuvSCt2ljQrXPVEw1kmAWXb4NQJTgn_LSehPeYCU0/edit?usp=drive_link" target="_blank">7-22-25: Rapid Speedway</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1Np7_yEx0SZqQJL_ECz-rq2qZTsrLKKD5OD4bKH8FNy8/edit?usp=drive_link" target="_blank">7-26-25: US 24 Speedway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1u8br1W3ga6XZeqyPZxkBh9HDwNuA0DDu6rcE0Cv31QY/edit?usp=drive_link" target="_blank">8-24-25: Capeway Rovers</a>
       <br/>
       <a href="https://docs.google.com/document/d/1u3wR1zS10CfGjy3NBsxA4kt1j1wjGt4vnvQRCu3QVy0/edit?usp=drive_link" target="_blank">9-28-25: Cole's County Speedway</a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
