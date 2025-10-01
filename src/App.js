@@ -87,6 +87,8 @@ function App() {
       <br/>
       <a href="/recaps/11-12-23_Shortys_Sports_Park.pdf" target="_blank">11-12-23: Shorty's Sports Park</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1FHg9DcKpOsEIQHPLYPphYZnokD0y4n7gJ9apNx9zL68/edit?usp=drive_link" target="_blank">12-03-23: Las Vegas Motor Speedway Outfield Road Course</a>
+      <br/>
       <a href="/recaps/2-08-24_All-Tech_Raceway.pdf" target="_blank">2-08-24: All-Tech Raceway</a>
       <br/>
       <a href="/recaps/3-01-24_Nitrodome_at_Planet_Hollywood.pdf" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
@@ -123,6 +125,8 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1Kd3u5djapJMpt2fZ85sXF-Cy_Sl6206c168o75GeKKA/edit?usp=drive_link" target="_blank">11-20-24: Tulare Thunderbowl Raceway</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1TyKgzGYdK8xxp79RrU_AGYW-Mai0Qwcl7TEZ76niuWE/edit?usp=drive_link" target="_blank">11-22-24: Las Vegas Strip Circuit</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1vEcKBZQkwi9mISd0To0h819qd8VyE9lDZk2wc_uVHng/edit?usp=drive_link" target="_blank">4-18-25 and 4-19-25: Rockingham Speedway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1VN4FkUmFSQJBjiOcjACULZQOGJeu9gsLkiPC6Ogz1JY/edit?usp=drive_link" target="_blank">4-18-25: Wake County Speedway</a>
@@ -149,11 +153,7 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1u8br1W3ga6XZeqyPZxkBh9HDwNuA0DDu6rcE0Cv31QY/edit?usp=drive_link" target="_blank">8-24-25: Capeway Rovers</a>
       <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://docs.google.com/document/d/1u3wR1zS10CfGjy3NBsxA4kt1j1wjGt4vnvQRCu3QVy0/edit?usp=drive_link" target="_blank">9-28-25: Cole's County Speedway</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -899,7 +899,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/ici05w6YN7s" target="_blank">671 Albany-Saratoga Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/uWAlNH2dVX0" target="_blank">673 Hawkeye Downs Speedway (dirt)</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
