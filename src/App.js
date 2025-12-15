@@ -155,11 +155,9 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1u8br1W3ga6XZeqyPZxkBh9HDwNuA0DDu6rcE0Cv31QY/edit?usp=drive_link" target="_blank">8-24-25: Capeway Rovers</a>
       <br/>
+      <a href="https://docs.google.com/document/d/16FEggqnBC4snRvawij9AS05dH8xYDs-YTa7x-KQKijY/edit?tab=t.0" target="_blank">9-11-25: Berlin Fair</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1u3wR1zS10CfGjy3NBsxA4kt1j1wjGt4vnvQRCu3QVy0/edit?usp=drive_link" target="_blank">9-28-25: Cole's County Speedway</a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -859,6 +857,10 @@ function App() {
       <br/>
       <a href="https://youtube.com/shorts/WlSyVhJqW-I" target="_blank">624 Albany-Saratoga Speedway (Hot Laps)</a>
       <br/>
+      <a href="https://youtu.be/8lRWJ2QPlCE" target="_blank">625 Bloomington Speedway</a>
+      <br/>
+      <a href="https://youtu.be/DUrfhmPXQMM" target="_blank">626 Bloomington Speedway</a>
+      <br/>
       <a href="https://youtu.be/EG1BG_3H3kc" target="_blank">628 Kokomo Speedway</a>
       <br/>
       <a href="https://youtu.be/sJyLnEqptuw" target="_blank">629 and 630 Kokomo Speedway</a>
@@ -870,6 +872,8 @@ function App() {
       <a href="https://youtu.be/p1gN7szpq-s" target="_blank">636 Action Track USA</a>
       <br/>
       <a href="https://youtu.be/bv5b23yu5sU" target="_blank">637 Action Track USA</a>
+      <br/>
+      <a href="https://youtu.be/YD2dElakjA8" target="_blank">645 and 646 Port Royal Speedway</a>
       <br/>
       <a href="https://youtu.be/8Qt4w8D3pIA" target="_blank">647 Action Track USA</a>
       <br/>
@@ -899,23 +903,21 @@ function App() {
       <br/>
       <a href="https://youtu.be/ici05w6YN7s" target="_blank">671 Albany-Saratoga Speedway</a>
       <br/>
-      <a href="https://youtu.be/uWAlNH2dVX0" target="_blank">673 Hawkeye Downs Speedway (dirt)</a>
+      <a href="https://youtu.be/uWAlNH2dVX0" target="_blank">673 Hawkeye Downs Speedway Dirt</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/tK1YdI-VTMg" target="_blank">698 Kern County Dirt Track (Qualifying)</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/5ZRnnx4SRyY" target="_blank">699 Kern County Dirt Track (Hot Laps)</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/ZjbNsU5vkjo" target="_blank">701 Ventura Raceway (Group Qualifying)</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/xPfIcmJ7WRw" target="_blank">706 Ventura Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/xS1G_ZrsjJY" target="_blank">707 Ventura Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/f2vbh_kaCV4" target="_blank">708n Ventura Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://youtu.be/HXiJfaBgLa0" target="_blank">718 Gateway Dirt Nationals</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
