@@ -71,43 +71,53 @@ function App() {
       <br/>
       <a href="/recaps/7-23-23_Pocono_Raceway.pdf" target="_blank">7-23-23: Pocono Raceway</a>
       <br/>
-      <a href="/recaps/8-26-23_Marshfield_Fair.pdf" target="_blank">8-26-23: Marshfield Fair</a>
+      <a href="https://docs.google.com/document/d/1Je4ZTS-7hgr2dPM123eBsJ3S2kt7KvQfsTsFFqknkxQ/edit?usp=sharing" target="_blank">8-26-23: Marshfield Fair</a>
       <br/>
-      <a href="/recaps/9-29-23_Unity_Raceway.pdf" target="_blank">9-29-23: Unity Raceway</a>
+      <a href="https://docs.google.com/document/d/1dHYUgXgJasMN9YRgKtZr5x8RLhXs4dyErkEbRibCjdw/edit?usp=sharing" target="_blank">9-29-23: Unity Raceway</a>
       <br/>
-      <a href="/recaps/9-30-23_Thompson_Road_Course.pdf" target="_blank">9-30-23: Thompson Speedway (Asphalt Road Course)</a>
+      <a href="https://docs.google.com/document/d/1MlBEpqJr69vPNIy5vSUZiE40QnWz9xeWyPpSCkTwxYU/edit?usp=sharing" target="_blank">9-30-23: Thompson Speedway (Asphalt Road Course)</a>
       <br/>
-      <a href="/recaps/11-04-23_Stockton_Dirt_Track.pdf" target="_blank">11-04-23: Stockton Dirt Track</a>
+      <a href="https://docs.google.com/document/d/11pgOum_uPd6dvrBMGz-dA3c2O2FKq9BLFV08oN2fbuI/edit?usp=sharing" target="_blank">10-20-23: Devil's Bowl Speedway (TX)</a>
       <br/>
-      <a href="/recaps/11-05-23_SBC_Fairgrounds.pdf" target="_blank">11-05-23: SBC Fairgrounds</a>
+      <a href="https://docs.google.com/document/d/13NEjgH_MhmIjhm5JAzo-lnBKtliHMG5Gvd4F4CNmX1Q/edit?usp=sharing" target="_blank">11-04-23: Stockton Dirt Track</a>
       <br/>
-      <a href="/recaps/11-10-23_Central_Arizona_Raceway.pdf" target="_blank">11-10-23: Central Arizona Raceway</a>
+      <a href="https://docs.google.com/document/d/1TmZPUVQiXJA85dInqKaIPd_mjZDgwwlOKSqblb75NlA/edit?usp=sharing" target="_blank">11-05-23: SBC Fairgrounds</a>
       <br/>
-      <a href="/recaps/11-11-23_Podium_Club_at_Attesa.pdf" target="_blank">11-11-23: Podium Club at Attesa (Full Course)</a>
+      <a href="https://docs.google.com/document/d/1D1uQOG7PMklUKOL1BOUZl9GPjVte7N1DRCAbVQQ9UWo/edit?usp=sharing" target="_blank">11-10-23: Central Arizona Raceway</a>
       <br/>
-      <a href="/recaps/11-12-23_Shortys_Sports_Park.pdf" target="_blank">11-12-23: Shorty's Sports Park</a>
+      <a href="https://docs.google.com/document/d/1re-5NPavMWakhjQsAAXrgWLP4LW_BvTrdzNKCrhzaN4/edit?usp=sharing" target="_blank">11-11-23: Podium Club at Attesa (Full Course)</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1kZgS1EOsRGdaSLQsawPjQ1j1Grr3kr9P6B-H0B3QlWE/edit?usp=sharing" target="_blank">11-12-23: Shorty's Sports Park</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1-74uKcHC0Px-KrsNWaVaAkV2LkO4s_-Ve-sp6vNnEoA/edit?usp=sharing" target="_blank">11-17-23: Placerville Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1aX8mYQEKPC9OhaaoGxTfESQN67wknyB2yakUWw_fv7A/edit?usp=sharing" target="_blank">11-21-23: Merced Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1eHpzJxAEA7KSw74zOtN6L2EFerJaYJEuQdWj7VSV1ZE/edit?usp=sharing" target="_blank">12-01-23: The Bullring</a>
       <br/>
       <a href="https://docs.google.com/document/d/1FHg9DcKpOsEIQHPLYPphYZnokD0y4n7gJ9apNx9zL68/edit?usp=drive_link" target="_blank">12-03-23: Las Vegas Motor Speedway Outfield Road Course</a>
       <br/>
-      <a href="/recaps/2-08-24_All-Tech_Raceway.pdf" target="_blank">2-08-24: All-Tech Raceway</a>
+      <a href="https://docs.google.com/document/d/1ba4jXLDbRUTiobNTPBXi0Eolfthc5UP4pmyLNedLM5Y/edit?usp=sharing" target="_blank">12-31-23: Caldwell Indoor Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/19zszvcrguf1fHgJ5a58e_HNi2GfPKLoBf2izrQiFSzU/edit?usp=sharing" target="_blank">2-08-24: All-Tech Raceway</a>
       <br/>
       <a href="/recaps/3-01-24_Nitrodome_at_Planet_Hollywood.pdf" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
       <br/>
-      <a href="/recaps/5-17-24_Lakeside_Speedway.pdf" target="_blank">5-17-24: Lakeside Speedway</a>
+      <a href="https://docs.google.com/document/d/1gUdTYDESHiv2u-07d9T8jeL9mwldL8dmhMwz9CjGwCs/edit?usp=sharing" target="_blank">4-06-24: Eagle Canyon Raceway</a>
       <br/>
-      <a href="/recaps/5-19-24_Sweet_Springs_Motorsports_Complex.pdf" target="_blank">5-19-24: Sweet Springs Motorsports Complex</a>
+      <a href="https://docs.google.com/document/d/126T19PClImreuAm6iHQNPrk1MgJkSO_-beScmXuL8y4/edit?usp=sharing" target="_blank">5-17-24: Lakeside Speedway</a>
       <br/>
-      <a href="/recaps/4-06-24_Eagle_Canyon_Raceway.pdf" target="_blank">4-06-24: Eagle Canyon Raceway</a>
+      <a href="https://docs.google.com/document/d/1YPLQy23vvKgSj6EU0d2Un74ktLJWD-5BYi59H0KI7DY/edit?usp=sharing" target="_blank">5-19-24: Sweet Springs Motorsports Complex</a>
       <br/>
-      <a href="/recaps/7-25-24_Ripley_County_Fairgrounds.pdf" target="_blank">7-25-24: Ripley County Fairgrounds</a>
+      <a href="https://docs.google.com/document/d/1z8W2gh3euPK1a4k_o8KNjiEn2MtqzvpjgxIKZpldM3k/edit?usp=sharing" target="_blank">7-25-24: Ripley County Fairgrounds</a>
       <br/>
-      <a href="/recaps/7-25-24_Brownstown_Speedway.pdf" target="_blank">7-25-24: Brownstown Speedway</a>
+      <a href="https://docs.google.com/document/d/1HjDcRuARQvicjdSb3jLLL8bnB-Fv6Gcj8i3qZGqd-40/edit?usp=sharing" target="_blank">7-25-24: Brownstown Speedway</a>
       <br/>
-      <a href="/recaps/8-01-24_Terre_Haute_Action_Track.pdf" target="_blank">8-01-24: Terre Haute Action Track</a>
+      <a href="https://docs.google.com/document/d/1u1jT32JA5dmYG9M4Zh0Wkgp5Xj0rN2FSgykEn_FLOuw/edit?usp=sharing" target="_blank">8-01-24: Terre Haute Action Track</a>
       <br/>
-      <a href="/recaps/8-10-24_Bolton_Fairgrounds.pdf" target="_blank">8-10-24: Bolton Fairgrounds</a>
+      <a href="https://docs.google.com/document/d/1xtkRLDVJgL5pFHADHCjuCSOHdNZXL7zYMNT6ZEqJOrI/edit?usp=sharing" target="_blank">8-10-24: Bolton Fairgrounds</a>
       <br/>
-      <a href="/recaps/8-25-24_MX101.pdf" target="_blank">8-25-24: MX101</a>
+      <a href="https://docs.google.com/document/d/195Fl-erNSOVpBk_PgS_VhKIo-TSSVsjT-ThQ2MriEnA/edit?usp=sharing" target="_blank">8-25-24: MX101</a>
       <br/>
       <a href="/recaps/8-31-24_The_Milwaukee_Mile.pdf" target="_blank">8-31-24: The Milwaukee Mile</a>
       <br/>
@@ -159,7 +169,7 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1u3wR1zS10CfGjy3NBsxA4kt1j1wjGt4vnvQRCu3QVy0/edit?usp=drive_link" target="_blank">9-28-25: Cole's County Speedway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://docs.google.com/document/d/1nG5cPx5aVP0IJOIZme9HeXlpB5Q9Z0uCsBgEaf_6APc/edit?usp=sharing" target="_blank">11-25-25: Bakersfield Speedway at Kevin Harvick's Kern Raceway</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -771,6 +781,10 @@ function App() {
       <br/>
       <a href="https://youtu.be/JzP68GrTIIg" target="_blank">563 Lincoln Park Raceway (Qualifying)</a>
       <br/>
+      <a href="https://youtu.be/Dt4TawxSvhc" target="_blank">564 Lincoln Park Speedway</a>
+      <br/>
+      <a href="https://youtu.be/zgXxKf4Ks_c" target="_blank">567 Lincoln Park Speedway</a>
+      <br/>
       <a href="https://youtu.be/PA1k7HZa2eg" target="_blank">568 Kokomo Speedway</a>
       <br/>
       <a href="https://youtu.be/_XU12Ac0uhQ" target="_blank">569 Kokomo Speedway</a>
@@ -873,6 +887,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/bv5b23yu5sU" target="_blank">637 Action Track USA</a>
       <br/>
+      <a href="https://youtu.be/v8xPj60KQr4" target="_blank">639 Bridgeport Motorsports Park</a>
+      <br/>
       <a href="https://youtu.be/YD2dElakjA8" target="_blank">645 and 646 Port Royal Speedway</a>
       <br/>
       <a href="https://youtu.be/8Qt4w8D3pIA" target="_blank">647 Action Track USA</a>
@@ -888,6 +904,8 @@ function App() {
       <a href="https://youtu.be/CuLJAdXTW9c" target="_blank">655 Millstream Speedway</a>
       <br/>
       <a href="https://youtu.be/H7Ee9ZYQMFc" target="_blank">658 Lincoln Park Speedway</a>
+      <br/>
+      <a href="https://youtu.be/co3cr3NACNc" target="_blank">660, 661, and 662 Lawrenceburg Speedway</a>
       <br/>
       <a href="https://youtu.be/6nccy67xfjM" target="_blank">664 Kokomo Speedway</a>
       <br/>
@@ -905,6 +923,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/uWAlNH2dVX0" target="_blank">673 Hawkeye Downs Speedway Dirt</a>
       <br/>
+      <a href="https://youtu.be/4HiD2hQCfQo" target="_blank">674 Bridgeport Motorsports Park</a>
+      <br/>
       <a href="https://youtu.be/tK1YdI-VTMg" target="_blank">698 Kern County Dirt Track (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/5ZRnnx4SRyY" target="_blank">699 Kern County Dirt Track (Hot Laps)</a>
@@ -915,7 +935,11 @@ function App() {
       <br/>
       <a href="https://youtu.be/xS1G_ZrsjJY" target="_blank">707 Ventura Raceway</a>
       <br/>
-      <a href="https://youtu.be/f2vbh_kaCV4" target="_blank">708n Ventura Raceway</a>
+      <a href="https://youtu.be/f2vbh_kaCV4" target="_blank">708 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/eCM4J2wLnpE" target="_blank">711 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/RivD7pvrVXs" target="_blank">712 Ventura Raceway</a>
       <br/>
       <a href="https://youtu.be/HXiJfaBgLa0" target="_blank">718 Gateway Dirt Nationals</a>
       <br/>
@@ -932,6 +956,72 @@ function App() {
       <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
+      <br/>
+     <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+     <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+     <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+     <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+     <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
