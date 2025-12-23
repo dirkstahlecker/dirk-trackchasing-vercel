@@ -15,61 +15,151 @@ function App() {
           here
         </a>
       </p>
-      <a href="/recaps/2-01-20_Boardwalk_Hall.pdf" target="_blank">2-01-20: Boardwalk Hall</a>
+      <a href="https://docs.google.com/document/d/1NlYWfZVLht_UwNYtHa-7p65voO4GlXjnLxh_KkK_o0Y/edit?usp=sharing" target="_blank">6-19-20: Tri-State Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Wuo6WNWFi39lUxDThPQvvv7ClVCO-ZO4-R_6kaOrqtQ/edit?usp=sharing" target="_blank">8-21-20: Lucas Oil Raceway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1JOzXzV5dWs1pkkGUJ49p91UnN6FlQxi4uoikMSOGMJ8/edit?usp=sharing" target="_blank">8-23-20: Indiana State Fairgrounds</a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+
+
+      <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
       <br/>
       <a href="/recaps/6-19-20_Tri-State_Speedway.pdf" target="_blank">6-19-20: Tri-State Speedway</a>
       <br/>
-      <a href="/recaps/3-26-21_Boyds_Speedway.pdf" target="_blank">3-26-21: Boyd's Speedway</a>
+      <a href="https://docs.google.com/document/d/1Cmbm8ZPXGMjbTYtg4OoMB3Vfv3in7nth9t_QcwScQXM/edit?usp=sharing" target="_blank">3-26-21: Boyd's Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1T9WVdlRPcuie9G1TApOcL0QG7V-lp214QGvxcjISZIA/edit?usp=sharing" target="_blank">5-08-21: Rochester Fairgrounds (Road Course)</a>
       <br/>
       <a href="/recaps/5-23-21_Central_Cycle_and_Pomfret_Speedway.pdf" target="_blank">5-23-21: Central Cycle and Pomfret Speedway</a>
       <br/>
-      <a href="/recaps/5-29-21_Fulton_Speedway.pdf" target="_blank">5-29-21: Fulton Speedway</a>
+      <a href="https://docs.google.com/document/d/1cF1Y-QeVOz6HNsb2F7ymF72NLLy-HOlkNfqwg1GJojo/edit?usp=sharing" target="_blank">5-29-21: Fulton Speedway</a>
       <br/>
-      <a href="/recaps/2-05-22_Irwindale_Speedway.pdf" target="_blank">2-05-22: Irwindale Speedway</a>
+      <a href="https://docs.google.com/document/d/1-Bf2hFWNjW1brrH5yBAPVWeKA0QTLsx2fOsQgyb3vm0/edit?usp=sharing" target="_blank">6-13-21: Action Track USA</a>
       <br/>
-      <a href="/recaps/2-06-22_Los_Angeles_Memorial_Coliseum.pdf" target="_blank">2-06-22: Los Angeles Memorial Colisum</a>
+      <a href="https://docs.google.com/document/d/1jMUlM44lKosb2e5Hw0G9kQUYg1-auFUfvk_7tvORAOA/edit?usp=sharing" target="_blank">6-14-21: Wayne County Speedway</a>
       <br/>
-      <a href="/recaps/3-26-22_Cherokee_Speedway.pdf" target="_blank">3-26-22: Cherokee Speedway</a>
+      <a href="https://docs.google.com/document/d/1-vJNUO0HReic3QRckm27whW_tLF75LkzIZedVp7q_RA/edit?usp=sharing" target="_blank">6-19-21: Path Valley Speedway Park</a>
       <br/>
-      <a href="/recaps/6-11-22_Ventura_Raceway.pdf" target="_blank">6-11-22: Ventura Raceway</a>
+      <a href="https://docs.google.com/document/d/1dlKKKhfcHdsTPexN3efjKSq_kEe_Zu3YKMd8wfZgLGE/edit?usp=sharing" target="_blank">6-20-21: Selinsgrove Raceway Park</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1qY46UKPuyo0DyH03f1_4N_Ka2MP-zQjDmM0QrTOCIGA/edit?usp=sharing" target="_blank">6-20-21: Bloomsburg Fair Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1fZmpM_dK53k1XD1uFWTdK87kTXnH60bJWJQ1KpXhJn0/edit?usp=sharing" target="_blank">6-26-21: Riverhead Raceway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1CY-ep1JF6d2orvtvh8oz6gaQorIfsBWFIptMfS8jFy0/edit?usp=sharing" target="_blank">7-08-21: KRA Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Bw1HcyUPJwhMolZsvYC8JkvQE9ry6WTudaRjuPkL5og/edit?usp=sharing" target="_blank">7-10-21: ERX Motor Park</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1btVwp8LM-6Q4S8tPVAzdLTsVzynMoD8EcI2G_ENPIzk/edit?usp=sharing" target="_blank">8-21-21: Perris Auto Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1u_Mx9-J5ApGQ3x6562fa1teoJuRYLDARj7_DuB2C1QQ/edit?usp=sharing" target="_blank">9-10-21: Huset's Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1k68ABZnlcbOm8ZzaRrAXJVTcJh4_UO08KvfKjYKqXnA/edit?usp=sharing" target="_blank">10-02-21: Talladega Superspeedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1SxHar13_X1DDIvXW8uDMHoM6nDsolFXN0PLk-rxPBnM/edit?usp=sharing" target="_blank">10-02-21: Talladega Short Track</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1YszGHme3-q9X9SgUYqWXc-VyEhS8B9BHQHODCDXCOpI/edit?usp=sharing" target="_blank">11-12-21: Arizona Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Z5YTOHT81HoclolnJAomHC3hgmE-L-iP5sPPlyTBRCY/edit?usp=sharing" target="_blank">11-20-21: Perris Auto Speedway (Figure-8, Inner Oval, Road Course)</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1vSoctG7H6KN6MjDYqTSBwHF6pm314P0HVKKk7qUYgIc/edit?usp=sharing" target="_blank">1-27-22: Cocopah Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1BCBJbbBOcCUcQgaYMhX10NafgDVv1zVkEZmHhV2zGog/edit?usp=sharing" target="_blank">2-05-22: Irwindale Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/17I03RuIsZzwAsp66-2LxH3i5DBYn1H2xigY53PsEtgU/edit?usp=sharing" target="_blank">2-06-22: Los Angeles Memorial Colisum</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Dc-XE-gm02P41M8cX6vA24AnJEZW0n-W85eq0u2WIHs/edit?usp=sharing" target="_blank">3-26-22: Cherokee Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1AhQjZiDoXSCiT0CZoTgtPYhdnFKdi3lKZR9ijobAsmo/edit?usp=sharing" target="_blank">6-11-22: Ventura Raceway</a>
       <br/>
       <a href="/recaps/6-18-22_Bakersfield_Speedway_Inner_and_Kern_County_Raceway_Asphalt.pdf" target="_blank">6-18-22: Bakersfield Speedway (Inner) and Kern County Raceway (Asphalt)</a>
       <br/>
-      <a href="/recaps/1-21-23_Circuit_de_Trois-Rivieres_Rallycross.pdf" target="_blank">1-21-23: Circuit de Trois Rivieres Rallycross</a>
+      <a href="https://docs.google.com/document/d/1OOLMCagoDsybCN9Lwl4WEODLKFUWR9VDToevCP7Z0KQ/edit?usp=sharing" target="_blank">6-23-22: Skagit Speedway</a>
       <br/>
-      <a href="/recaps/2-09-23_Volusia_Speedway_Park.pdf" target="_blank">2-09-23: Volusia Speedway Park</a>
+      <a href="https://docs.google.com/document/d/1M2-FOnTfNowCwr3cCR_S-gr09tc4T5tu27oJBRSG3c4/edit?usp=sharing" target="_blank">7-18-22: Greenwood Valley Action Tracks</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1n_uz8ccI1RqW51nEa1yFo05IqQ-LKf4r3Sual1ARnGo/edit?usp=sharing" target="_blank">7-21-22: Linda's Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Bg6ST4Wqj-r7WkhBVXdIokKVgRcMAwfej6nX9S2EzwY/edit?usp=sharing" target="_blank">7-25-22: Circle City Raceway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Q4Kmi7RdIEinGkxn1jvn6Jomy1lUfOyyzJ2hRytx8jM/edit?usp=sharing" target="_blank">7-27-22: Pendleton County Fairgrounds</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/19qrE3wIL4vhjl24sH96GAa_CfKitODL1s-zrG_wJRwg/edit?usp=sharing" target="_blank">7-29-22: Bloomington Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1R1PeRd2QQ5ANKIBhwL4OedMQxyHqZdvNpeaBZjnyQCE/edit?usp=sharing" target="_blank">7-31-22: Dirt City Motorplex</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1O0yxPre_MK0auw3uxa2OIjKdp69heqw1tejIMViVDtQ/edit?usp=sharing" target="_blank">8-14-22: New Hampshire Motor Speedway Road Course (Full)</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Dkty51LP-qxLMXsT2U_FhX2T8cRTEwp7954tpHIxHI8/edit?usp=sharing" target="_blank">8-19-22: Outlaw Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1Gp0Igi_6eBAcVrAK14o3o1gXzBgVfcpGZaYB6ZVv1e4/edit?usp=sharing" target="_blank">8-20-22: Skyline Raceway Motorsports Park</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1fVZBEgPEHSrMXNTERhDK1Oot035Ub4Bh12jOYCu-d3Y/edit?usp=sharing" target="_blank">8-20-22: Five Mile Point Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1m6lw-P_mLKPR1nfu1CUmHMpi_v0etaT7i4W1FB-QmuA/edit?usp=sharing" target="_blank">9-30-22: I-30 Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1xgMoNdnybQSwvDL_0o7EeMXmyXNk3jOkvV5gnrdBgmc/edit?usp=sharing" target="_blank">10-06-22: Tri-County Racetrack</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1a1ejb20ge3ksqiHRKJCawQjEbOA1wAJDiS_HnF79F30/edit?usp=sharing" target="_blank">10-08-22: Nashville Fairgrounds Speedway (Inner)</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/11Ofpyvo46MBpJd3JB4mHhmSAFn2gyAkQ5zTYofvLyxM/edit?usp=sharing" target="_blank">10-11-22: 411 Motor Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1NmgNoN75-Tjb9U5RTKs1Au20t5tE-SLKBPNuO6YroD0/edit?usp=sharing" target="_blank">11-12-22: Adobe Mountain Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/11SfqzFBMiZeI6gk4UmyAKP8e-uqcrnQQn-JY5ueK-zU/edit?usp=sharing" target="_blank">11-15-22: Bakersfield Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1rIIH_l2GhHZKOUQ9azU08F6W3yobhEx9rymBFkw3Qo4/edit?usp=sharing" target="_blank">12-17-22: Southern Illinois Center</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/14QvuES0oEQNPas13F_ZV_cfFX4ILCbfK-EQO7zk7R_4/edit?usp=sharing" target="_blank">1-21-23: Circuit de Trois Rivieres Rallycross</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1_i7Xw_zy7f7xMOrwF7dGHwNEux-OeH8Fm3JuIOReGFQ/edit?usp=sharing" target="_blank">2-09-23: Volusia Speedway Park</a>
       <br/>
       <a href="/recaps/2-10-23_Auburndale_Speedway_and_Showtime_Speedway.pdf" target="_blank">2-10-23: Auburndale Speedway and Showtime Speedway</a>
       <br/>
       <a href="/recaps/2-11-23_Hobe_Sound_Speedway_and_Hendry_County_Motorsports_Park.pdf" target="_blank">2-11-23: Hobe Sound Speedway and Hendry County Motorsports Park</a>
       <br/>
-      <a href="/recaps/2-12-23_New_Smyrna_Speedway.pdf" target="_blank">2-12-23: New Smyrna Speedway</a>
+      <a href="https://docs.google.com/document/d/1w8WcgOkN906qGp78tAyxHIjRhOw6TCx21Xc3TtJA6Yo/edit?usp=sharing" target="_blank">2-12-23: New Smyrna Speedway</a>
       <br/>
-      <a href="/recaps/2-13-23_East_Bay_Raceway_Park.pdf" target="_blank">2-13-23: East Bay Raceway Park</a>
+      <a href="https://docs.google.com/document/d/1IkljAMfplrLVPvEldvDBVEGDjYRgCbS8Uinqc8LHyjM/edit?usp=sharing" target="_blank">2-13-23: East Bay Raceway Park</a>
       <br/>
-      <a href="/recaps/2-16-23_Citrus_County_Speedway.pdf" target="_blank">2-16-23: Citrus County Speedway</a>
+      <a href="https://docs.google.com/document/d/1YJpOtM7ofRdTjp9jpDUiGzxT8rAzcs3lEqGjKdkDZsI/edit?usp=sharing" target="_blank">2-16-23: Citrus County Speedway</a>
       <br/>
-      <a href="/recaps/2-16-23_Bubba_Raceway_Park.pdf" target="_blank">2-16-23: Bubba Raceway Park</a>
+      <a href="https://docs.google.com/document/d/1a5FV--NhwjTZ_mAuqKYkQigWjme6qbsyx88P727_Yjw/edit?usp=sharing" target="_blank">2-16-23: Bubba Raceway Park</a>
       <br/>
-      <a href="/recaps/5-19-23_Clinton_County_Speedway.pdf" target="_blank">5-19-23: Clinton County Speedway</a>
+      <a href="https://docs.google.com/document/d/13gPGQCSHwjn-2hagP2YMB0V3OEwPItnYlj1e0XO7yBs/edit?usp=sharing" target="_blank">5-19-23: Clinton County Speedway</a>
       <br/>
-      <a href="/recaps/5-20-23_Bowman_Gray_Stadium.pdf" target="_blank">5-20-23: Bowman Gray Stadium</a>
+      <a href="https://docs.google.com/document/d/1P5K6V0GQtRodNLoMcysHIMsp65WHYvH9G8cmuhTAUTA/edit?usp=sharing" target="_blank">5-20-23: Bowman Gray Stadium</a>
       <br/>
-      <a href="/recaps/5-28-23_Wiscasset_Speedway.pdf" target="_blank">5-28-23: Wiscasset Speedway</a>
+      <a href="https://docs.google.com/document/d/1MRi774EQu4-RPp9-cxXbfeac35L2PR85CfQ8AIfgxGY/edit?usp=sharing" target="_blank">5-28-23: Wiscasset Speedway</a>
       <br/>
-      <a href="/recaps/7-02-23_Chicago_Street_Course.pdf" target="_blank">7-02-23: Chicago Street Course</a>
+      <a href="https://docs.google.com/document/d/1xRaCTrM6tAow4wu7A8P86p4dbxwptctXe3uQsVS4sFs/edit?usp=sharing" target="_blank">7-02-23: Chicago Street Course</a>
       <br/>
-      <a href="/recaps/7-03-23_Rockford_Speedway.pdf" target="_blank">7-03-23: Rockford Speedway</a>
+      <a href="https://docs.google.com/document/d/1FXwlH6jL0VPuczJj_0IkkHdZnRen8j9fgXg5ck8VPAU/edit?usp=sharing" target="_blank">7-03-23: Rockford Speedway</a>
       <br/>
-      <a href="/recaps/7-04-23_What_Cheer_Raceway.pdf" target="_blank">7-04-23: What Cheer Raceway</a>
+      <a href="https://docs.google.com/document/d/17oZDDJ7k__B2dWp35OGNjrQp-1AbMpg6n4xZav2WCgQ/edit?usp=sharing" target="_blank">7-04-23: What Cheer Raceway</a>
       <br/>
-      <a href="/recaps/7-05-23_Independence_Motor_Speedway.pdf" target="_blank">7-05-23: Independence Motor Speedway</a>
+      <a href="https://docs.google.com/document/d/1gAqlMxUiyNDHWiktJZDbmtV5DB8nOVgEqG-R7Zbqf94/edit?usp=sharing" target="_blank">7-05-23: Independence Motor Speedway</a>
       <br/>
-      <a href="/recaps/7-07-23_Farmer_City_Raceway.pdf" target="_blank">7-07-23: Farmer City Raceway</a>
+      <a href="https://docs.google.com/document/d/1WFw_Q2LbU7oZRxO8ssiYaj0DFGiS-xPheVrhpwlTGtg/edit?usp=sharing" target="_blank">7-07-23: Farmer City Raceway</a>
       <br/>
-      <a href="/recaps/7-15-23_NHMX_Flat_Track.pdf" target="_blank">7-15-23: NHMX Flat Track</a>
+      <a href="https://docs.google.com/document/d/1T6lqbapYMhBwThFdZTxuiV0bz3mYv58mLlij2WZMK68/edit?usp=sharing" target="_blank">7-15-23: NHMX Flat Track</a>
       <br/>
-      <a href="/recaps/7-23-23_Pocono_Raceway.pdf" target="_blank">7-23-23: Pocono Raceway</a>
+      <a href="https://docs.google.com/document/d/1Ayg89A_o3pJUCjYky7f8ThbUMnmLevr8wVP6Ipp1NE0/edit?usp=sharing" target="_blank">7-23-23: Pocono Raceway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1Je4ZTS-7hgr2dPM123eBsJ3S2kt7KvQfsTsFFqknkxQ/edit?usp=sharing" target="_blank">8-26-23: Marshfield Fair</a>
       <br/>
@@ -101,7 +191,7 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/19zszvcrguf1fHgJ5a58e_HNi2GfPKLoBf2izrQiFSzU/edit?usp=sharing" target="_blank">2-08-24: All-Tech Raceway</a>
       <br/>
-      <a href="/recaps/3-01-24_Nitrodome_at_Planet_Hollywood.pdf" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
+      <a href="https://docs.google.com/document/d/1FowO3JEipMt57b0358Lrx9kXqX-ln3QYjIBq1MdORu0/edit?usp=sharing" target="_blank">3-01-24: Nitrodome at Planet Hollywood</a>
       <br/>
       <a href="https://docs.google.com/document/d/1gUdTYDESHiv2u-07d9T8jeL9mwldL8dmhMwz9CjGwCs/edit?usp=sharing" target="_blank">4-06-24: Eagle Canyon Raceway</a>
       <br/>
@@ -171,7 +261,7 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1nG5cPx5aVP0IJOIZme9HeXlpB5Q9Z0uCsBgEaf_6APc/edit?usp=sharing" target="_blank">11-25-25: Bakersfield Speedway at Kevin Harvick's Kern Raceway</a>
       <br/>
-      <a href="" target="_blank"></a>
+      <a href="https://docs.google.com/document/d/1b2fpOQqjKEwCdD_iVEKpZqykA1BhzJAdkGQS27LMz3U/edit?usp=sharing" target="_blank">11-08-25: Glen Helen Raceway (Dirt)</a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -611,6 +701,14 @@ function App() {
       <br/>
       <a href="https://youtu.be/VEvwUyk0j4Q" target="_blank">409 Chili Bowl</a>
       <br/>
+      <a href="https://youtu.be/_YJxCFIt7oQ" target="_blank">410 Chili Bowl</a>
+      <br/>
+      <a href="https://youtu.be/ycQ39fafpeQ" target="_blank">411, 412, and 413 Chili Bowl</a>
+      <br/>
+      <a href="https://youtu.be/bOshog5KjO8" target="_blank">414 Chili Bowl</a>
+      <br/>
+      <a href="https://youtu.be/I5gTFMGOTqQ" target="_blank">415 and 416 Chili Bowl</a>
+      <br/>
       <a href="https://youtu.be/NwOPwKRkvsE" target="_blank">417 Chili Bowl</a>
       <br/>
       <a href="https://youtu.be/Gzv7aNIhC-8" target="_blank">418 Chili Bowl</a>
@@ -783,6 +881,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/Dt4TawxSvhc" target="_blank">564 Lincoln Park Speedway</a>
       <br/>
+      <a href="https://youtu.be/XWdsdm741gw" target="_blank">565 Lincoln Park Speedway</a>
+      <br/>
       <a href="https://youtu.be/zgXxKf4Ks_c" target="_blank">567 Lincoln Park Speedway</a>
       <br/>
       <a href="https://youtu.be/PA1k7HZa2eg" target="_blank">568 Kokomo Speedway</a>
@@ -881,6 +981,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/BjgQNYA5ngk" target="_blank">631 Kokomo Speedway</a>
       <br/>
+      <a href="https://youtu.be/uZtrM6ryZD0" target="_blank">633 Atomic Speedway</a>
+      <br/>
       <a href="https://youtu.be/tSMgi5pNsrs" target="_blank">635 Action Track USA</a>
       <br/>
       <a href="https://youtu.be/p1gN7szpq-s" target="_blank">636 Action Track USA</a>
@@ -888,6 +990,8 @@ function App() {
       <a href="https://youtu.be/bv5b23yu5sU" target="_blank">637 Action Track USA</a>
       <br/>
       <a href="https://youtu.be/v8xPj60KQr4" target="_blank">639 Bridgeport Motorsports Park</a>
+      <br/>
+      <a href="https://youtu.be/Hai815kEVpM" target="_blank">644 Port Royal Speedway</a>
       <br/>
       <a href="https://youtu.be/YD2dElakjA8" target="_blank">645 and 646 Port Royal Speedway</a>
       <br/>
@@ -902,6 +1006,8 @@ function App() {
       <a href="https://youtu.be/kcpXDx0XEYc" target="_blank">653 Action Track USA</a>
       <br/>
       <a href="https://youtu.be/CuLJAdXTW9c" target="_blank">655 Millstream Speedway</a>
+      <br/>
+      <a href="https://youtu.be/mTswLpNzHuU" target="_blank">657 IMS Dirt Track</a>
       <br/>
       <a href="https://youtu.be/H7Ee9ZYQMFc" target="_blank">658 Lincoln Park Speedway</a>
       <br/>
@@ -941,29 +1047,13 @@ function App() {
       <br/>
       <a href="https://youtu.be/RivD7pvrVXs" target="_blank">712 Ventura Raceway</a>
       <br/>
+      <a href="https://youtu.be/8yXl850StxU" target="_blank">715 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/7LQ_lCF1nXM" target="_blank">716 Ventura Raceway</a>
+      <br/>
+      <a href="https://youtu.be/-f3KFy0sktE" target="_blank">717 Ventura Raceway</a>
+      <br/>
       <a href="https://youtu.be/HXiJfaBgLa0" target="_blank">718 Gateway Dirt Nationals</a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-     <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
