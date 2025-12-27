@@ -218,15 +218,15 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/195Fl-erNSOVpBk_PgS_VhKIo-TSSVsjT-ThQ2MriEnA/edit?usp=sharing" target="_blank">8-25-24: MX101</a>
       <br/>
-      <a href="/recaps/8-31-24_The_Milwaukee_Mile.pdf" target="_blank">8-31-24: The Milwaukee Mile</a>
+      <a href="https://docs.google.com/document/d/1O6KuSNrBqG_wzLkYBeke7WgGBTn4_hp2LoV-HaoAhSk/edit?usp=sharing" target="_blank">8-31-24: The Milwaukee Mile</a>
       <br/>
-      <a href="/recaps/8-31-24_Jefferson_Speedway.pdf" target="_blank">8-31-24: Jefferson Speedway</a>
+      <a href="https://docs.google.com/document/d/1NSios-9_nNPmNVPQwtSa5efJR2WoH18dpNewaFjkNx8/edit?usp=sharing" target="_blank">8-31-24: Jefferson Speedway</a>
       <br/>
-      <a href="/recaps/9-01-24_Angell_Park_Speedway.pdf" target="_blank">9-01-24: Angell Park Speedway</a>
+      <a href="https://docs.google.com/document/d/1T93mxhCWrFbD5vgYtU4yj9THLyy6ruJJdyQPxAHPe98/edit?usp=sharing" target="_blank">9-01-24: Angell Park Speedway</a>
       <br/>
-      <a href="/recaps/9-08-24_508_International.pdf" target="_blank">9-08-24: 508 International</a>
+      <a href="https://docs.google.com/document/d/1xcLTUB98ZpBY53PAES-Nu4IuU1lq6XPrqUrqhuykwUg/edit?usp=sharing" target="_blank">9-08-24: 508 International</a>
       <br/>
-      <a href="/recaps/9-14-24_Sportsdrome_Speedway.pdf" target="_blank">9-14-24: Sportsdrome Speedway</a>
+      <a href="https://docs.google.com/document/d/1aSB70hZwo__qkZG2AZQCydp9RoEeqKJvSJS6ip2m6-c/edit?usp=sharing" target="_blank">9-14-24: Sportsdrome Speedway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1vQqZS5ClIZKhrPxOMv_zqQmrriGI8ISydW4gftnUw4U/edit?usp=drive_link" target="_blank">11-16-24: Buttonwillow Raceway Park</a>
       <br/>
@@ -1062,6 +1062,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/RivD7pvrVXs" target="_blank">712 Ventura Raceway</a>
       <br/>
+      <a href="https://youtube.com/shorts/DfaZFRBUPwc" target="_blank">713 Ventura Raceway</a>
+      <br/>
       <a href="https://youtu.be/8yXl850StxU" target="_blank">715 Ventura Raceway</a>
       <br/>
       <a href="https://youtu.be/7LQ_lCF1nXM" target="_blank">716 Ventura Raceway</a>
@@ -1069,8 +1071,6 @@ function App() {
       <a href="https://youtu.be/-f3KFy0sktE" target="_blank">717 Ventura Raceway</a>
       <br/>
       <a href="https://youtu.be/HXiJfaBgLa0" target="_blank">718 Gateway Dirt Nationals</a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
