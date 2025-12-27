@@ -16,7 +16,7 @@ function App() {
         </a>
       </p>
       <br/>
-      <a href="" target="_blank"></a>
+      {/* <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -25,8 +25,7 @@ function App() {
       <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
-      <br/>
-
+      <br/> */}
 
 
       <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
