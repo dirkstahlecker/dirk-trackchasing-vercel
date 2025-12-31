@@ -25,18 +25,34 @@ function App() {
       <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
       <br/> */}
 
 
       <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1gJqvKgNog4KVhEHmJIVhhf8GCnKOm2ZCXYQ2H7nIzM4/edit?usp=sharing" target="_blank">6-16-20: Paragon Speedway</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1NlYWfZVLht_UwNYtHa-7p65voO4GlXjnLxh_KkK_o0Y/edit?usp=sharing" target="_blank">6-19-20: Tri-State Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/14xdSQpGZenzPFbWwTEVv66lM-tgusrEKlxeOzbX8KAc/edit?usp=sharing" target="_blank">7-03-20: Big Diamond Speedway</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1EtTQTugt0_Mw0hXvZv4SdsHsy1e1tujFf634Inm-Gbk/edit?usp=sharing" target="_blank">7-04-20: White Mountain Motorsports Park</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1KKiLqBxGqsEDS_sP7dcQN1SXmfaA8WSqDSZUwHnrrKU/edit?usp=sharing" target="_blank">8-01-20: Londonderry Raceway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1Wuo6WNWFi39lUxDThPQvvv7ClVCO-ZO4-R_6kaOrqtQ/edit?usp=sharing" target="_blank">8-21-20: Lucas Oil Raceway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1JOzXzV5dWs1pkkGUJ49p91UnN6FlQxi4uoikMSOGMJ8/edit?usp=sharing" target="_blank">8-23-20: Indiana State Fairgrounds</a>
       <br/>
+      <a href="https://docs.google.com/document/d/10wz-9ODQhCdf-G2QdlYHLyQeKkfXIv21mjsZLRs3I5E/edit?usp=sharing" target="_blank">9-12-20: New Hampshire Motor Speedway Legends Oval</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1kJyQOA3ces6SEA0JNmJFrRRRFzPVcvQXpkavjmmTXwo/edit?usp=sharing" target="_blank">1-31-21: Lee Pond</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1uVg5Ohk6ZKgTdaSJPtomYtPOFiLyU-G4YZvrrf6t4ns/edit?usp=sharing" target="_blank">3-06-21: Rochester Fairgrounds</a>
       <br/>
       <a href="https://docs.google.com/document/d/1Cmbm8ZPXGMjbTYtg4OoMB3Vfv3in7nth9t_QcwScQXM/edit?usp=sharing" target="_blank">3-26-21: Boyd's Speedway</a>
       <br/>
@@ -71,6 +87,8 @@ function App() {
       <a href="https://docs.google.com/document/d/1k68ABZnlcbOm8ZzaRrAXJVTcJh4_UO08KvfKjYKqXnA/edit?usp=sharing" target="_blank">10-02-21: Talladega Superspeedway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1SxHar13_X1DDIvXW8uDMHoM6nDsolFXN0PLk-rxPBnM/edit?usp=sharing" target="_blank">10-02-21: Talladega Short Track</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/15KjPfsdFj6AHZXhDFu9egy4Gt481T7A5chQIAk83zm0/edit?usp=sharing" target="_blank">10-11-21: Topsfield Fair</a>
       <br/>
       <a href="https://docs.google.com/document/d/1YszGHme3-q9X9SgUYqWXc-VyEhS8B9BHQHODCDXCOpI/edit?usp=sharing" target="_blank">11-12-21: Arizona Speedway</a>
       <br/>
@@ -170,6 +188,8 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1Ayg89A_o3pJUCjYky7f8ThbUMnmLevr8wVP6Ipp1NE0/edit?usp=sharing" target="_blank">7-23-23: Pocono Raceway</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1kk1dKll-L6jv1WGo9N3t4tnk0-DRSEHL674_ZmX_o5c/edit?usp=sharing" target="_blank">8-12-23: Winchester Speedway</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1Je4ZTS-7hgr2dPM123eBsJ3S2kt7KvQfsTsFFqknkxQ/edit?usp=sharing" target="_blank">8-26-23: Marshfield Fair</a>
       <br/>
       <a href="https://docs.google.com/document/d/1dHYUgXgJasMN9YRgKtZr5x8RLhXs4dyErkEbRibCjdw/edit?usp=sharing" target="_blank">9-29-23: Unity Raceway</a>
@@ -238,6 +258,8 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1J0gtdirMqH9fcHP5xkd4ZuP0EuGVGPXPhH7Izt-TcSA/edit?usp=sharing" target="_blank">3-01-25: Northwood Lake</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1gmBgxQmQDcjzGTiLTqJLLDf1Ll121xwSFEAbx6-z0M4/edit?usp=sharing" target="_blank">3-22-25: Boss Ice Arena</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1vEcKBZQkwi9mISd0To0h819qd8VyE9lDZk2wc_uVHng/edit?usp=drive_link" target="_blank">4-18-25 and 4-19-25: Rockingham Speedway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1VN4FkUmFSQJBjiOcjACULZQOGJeu9gsLkiPC6Ogz1JY/edit?usp=drive_link" target="_blank">4-18-25: Wake County Speedway</a>
@@ -264,6 +286,8 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1nAR8Gz3qlEO3N_6XW1mX4AmlcnPTlSJTHg6Pj4AjFIg/edit?usp=sharing" target="_blank">7-23-25: Maquoketa Speedway</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1ar4keUn6cMVr4jaciVJpoFkD6_uMKyO3-ioFevqtlSw/edit?usp=sharing" target="_blank">7-23-25: Dubuque Speedway</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1QRii-Aw0pV0zVyQ3W9GM-KP_SB6s9vZrCRWwtWyTR2Y/edit?usp=sharing" target="_blank">7-24-25: The Dirt Track and Indianapolis Motor Speedway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1Np7_yEx0SZqQJL_ECz-rq2qZTsrLKKD5OD4bKH8FNy8/edit?usp=drive_link" target="_blank">7-26-25: US 24 Speedway</a>
@@ -281,10 +305,6 @@ function App() {
       <a href="https://docs.google.com/document/d/1nG5cPx5aVP0IJOIZme9HeXlpB5Q9Z0uCsBgEaf_6APc/edit?usp=sharing" target="_blank">11-25-25: Bakersfield Speedway at Kevin Harvick's Kern Raceway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1b2fpOQqjKEwCdD_iVEKpZqykA1BhzJAdkGQS27LMz3U/edit?usp=sharing" target="_blank">11-08-25: Glen Helen Raceway (Dirt)</a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -1078,7 +1098,19 @@ function App() {
       <br/>
       <a href="" target="_blank"></a>
       <br/>
-     <a href="" target="_blank"></a>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -1094,23 +1126,11 @@ function App() {
       <br/>
       <a href="" target="_blank"></a>
       <br/>
-     <a href="" target="_blank"></a>
-      <br/>
       <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-     <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
@@ -1126,7 +1146,7 @@ function App() {
       <br/>
       <a href="" target="_blank"></a>
       <br/>
-     <a href="" target="_blank"></a>
+      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
