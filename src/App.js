@@ -1,8 +1,23 @@
 import './App.css';
 import { Analytics } from "@vercel/analytics/react"
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import 'leaflet/dist/leaflet.css';
+import L from 'leaflet';
+
 //flip videos are on TrackchaserDirk youtube account
 
+function makeMapMarkersWork() {
+  delete L.Icon.Default.prototype._getIconUrl;
+  L.Icon.Default.mergeOptions({
+    iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
+    iconUrl: require('leaflet/dist/images/marker-icon.png'),
+    shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
+  });
+}
+
 function App() {
+  makeMapMarkersWork()
+
   return (
     <div className="App box">
       <Analytics/>
@@ -16,6 +31,20 @@ function App() {
         </a>
       </p>
       <br/>
+
+      <MapContainer
+        center={[39.8282, -98.5796]}
+        zoom={4}
+        style={{ height: '500px', width: '80%' }}
+      >
+        <TileLayer
+          attribution='&copy; OpenStreetMap contributors'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        />
+        <Marker position={[51.505, -0.09]}>
+          <Popup>Hello Leaflet</Popup>
+        </Marker>
+      </MapContainer>
 
       <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
       <br/>
