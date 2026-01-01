@@ -16,21 +16,6 @@ function App() {
         </a>
       </p>
       <br/>
-      {/* <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/> */}
-
 
       <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
       <br/>
@@ -274,6 +259,8 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1qXba2SIzzNzfO5ktpo2wlCqyfGby0KhDbRLSDxeZcjY/edit?usp=drive_link" target="_blank">5-24-25: Anderson Speedway</a>
       <br/>
+      <a href="https://docs.google.com/document/d/1yICnY6sPV99EEkTa6XVlwC8bc8xgFM64QbEJ3qHlRe4/edit?usp=sharing" target="_blank">5-26-25: Atomic Speedway</a>
+      <br/>
       <a href="https://docs.google.com/document/d/1zvnP-r7mcl-hbU_Gik7V-MejmsSeHpdalVO4QJ_EX8U/edit?usp=drive_link" target="_blank">6-28-25: Oswego Speedway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1lckD_YOC614Mg_ox7WqhSmP2J2nHvpNX2EVBMakDXi0/edit?usp=drive_link" target="_blank">6-29-25: Millstream Speedway</a>
@@ -310,6 +297,18 @@ function App() {
       <br/>
       <a href="" target="_blank"></a>
       <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
+      <a href="" target="_blank"></a>
+      <br/>
 
       <br/>
       <hr/>
@@ -330,7 +329,7 @@ function App() {
       <br/>
       <a href="https://youtu.be/qnaZx0-qrx4" target="_blank">27 Thompson Speedway Motorsports Park</a>
       <br/>
-      <a href="https://youtu.be/uJ_Q3zmi5Xo" target="_blank">34 Texas Motor Speedway (Paved Road Course)</a>
+      <a href="https://youtu.be/Dw8-C4e92Rw" target="_blank">34 Texas Motor Speedway (Paved Road Course)</a>
       <br/>
       <a href="https://youtu.be/dAEwz_l3EwI" target="_blank">35 Albany-Saratoga Speedway</a>
       <br/>
@@ -1066,6 +1065,8 @@ function App() {
       <br/>
       <a href="https://youtu.be/4HiD2hQCfQo" target="_blank">674 Bridgeport Motorsports Park</a>
       <br/>
+      <a href="https://youtube.com/shorts/yv2fHGZ4_98" target="_blank">690 Merced Speedway</a>
+      <br/>
       <a href="https://youtu.be/tK1YdI-VTMg" target="_blank">698 Kern County Dirt Track (Qualifying)</a>
       <br/>
       <a href="https://youtu.be/5ZRnnx4SRyY" target="_blank">699 Kern County Dirt Track (Hot Laps)</a>
@@ -1091,8 +1092,6 @@ function App() {
       <a href="https://youtu.be/-f3KFy0sktE" target="_blank">717 Ventura Raceway</a>
       <br/>
       <a href="https://youtu.be/HXiJfaBgLa0" target="_blank">718 Gateway Dirt Nationals</a>
-      <br/>
-      <a href="" target="_blank"></a>
       <br/>
       <a href="" target="_blank"></a>
       <br/>
