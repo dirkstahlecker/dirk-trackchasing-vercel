@@ -3,6 +3,7 @@ import { Analytics } from "@vercel/analytics/react"
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
+import { recapInfoJson, recapMap, trackDataJson } from './trackData';
 
 //flip videos are on TrackchaserDirk youtube account
 
@@ -13,6 +14,39 @@ function makeMapMarkersWork() {
     iconUrl: require('leaflet/dist/images/marker-icon.png'),
     shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
   });
+}
+
+
+
+function renderMarkers() {
+  const markers = []
+  for (const trackNum in trackDataJson) {
+    const trackInfo = trackDataJson[trackNum]
+
+    markers.push({
+      name: trackInfo.Track,
+      date: trackInfo.Date,
+      lat: trackInfo.Latitude,
+      long: trackInfo.Longitude,
+    })
+  }
+
+  const x = recapInfoJson
+
+  return markers
+    .filter((marker) => marker.lat !== undefined && marker.long !== undefined)
+    .map((marker) => {
+      const recapInfo = recapInfoJson[marker.name]
+      return <Marker position={[marker.lat, marker.long]}>
+        <Popup>
+          {marker.date}: {marker.name}
+          {
+            recapInfo !== undefined &&
+            <><br/><a href={recapInfo.recap} target="_blank">Recap</a></>
+          }
+        </Popup>
+      </Marker>
+    })
 }
 
 function App() {
@@ -41,9 +75,7 @@ function App() {
           attribution='&copy; OpenStreetMap contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        <Marker position={[51.505, -0.09]}>
-          <Popup>Hello Leaflet</Popup>
-        </Marker>
+        {renderMarkers()}
       </MapContainer>
 
       <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
