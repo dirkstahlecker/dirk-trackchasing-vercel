@@ -30,7 +30,8 @@ function renderMarkers() {
       configs.push({
         name: trackInfo.Track,
         parent: trackInfo["Parent Track"],
-        date: trackInfo.Date
+        date: trackInfo.Date,
+        recap: trackInfo.Recap,
       })
       continue
     }
@@ -40,6 +41,7 @@ function renderMarkers() {
       date: trackInfo.Date,
       lat: trackInfo.Latitude,
       long: trackInfo.Longitude,
+      recap: trackInfo.Recap,
       configs: []
     })
   }
@@ -51,31 +53,40 @@ function renderMarkers() {
     }
   })
 
-  const x = recapInfoJson
-
   return markers
     .filter((marker) => marker.lat !== undefined && marker.long !== undefined)
     .map((marker) => {
-      const recapInfo = recapInfoJson[marker.name]
+      // const recapInfo = recapInfoJson[marker.name]
       return <Marker position={[marker.lat, marker.long]}>
         <Popup>
           {printNameAndDate(marker.name, marker.date)}
+          {/* {
+            recapInfo !== undefined &&
+            <>(<a href={recapInfo.recap} target="_blank">Recap</a>)</>
+          } */}
           {
             marker.configs.length > 0 &&
             <>
               <br/>Additional Configurations:
               <>
                 {
-                marker.configs.map((config) => <>
-                  <br/>&nbsp;&nbsp;{printNameAndDate(config.name, config.date)}
-                </>)
+                marker.configs.map((config) => {
+                  // const configRecap = undefined
+                  // if (recapInfo?.configs !== undefined) {
+                  //   recapInfo.configs.find((config) => config.configName)
+                  // }
+
+                  return <>
+                    <br/>&nbsp;&nbsp;{printNameAndDate(config.name, config.date)}
+                    {/* {
+                      configRecap &&
+                      <>(<a href={recapInfo.recap} target="_blank">Recap</a>)</>
+                    } */}
+                  </>
+                })
                 }
               </>
             </>
-          }
-          {
-            recapInfo !== undefined &&
-            <><br/><a href={recapInfo.recap} target="_blank">Recap</a></>
           }
         </Popup>
       </Marker>
