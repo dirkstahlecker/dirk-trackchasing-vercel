@@ -20,16 +20,36 @@ function makeMapMarkersWork() {
 
 function renderMarkers() {
   const markers = []
+  const configs = [] //don't know what order we'll have, we'll put these into the markers after
   for (const trackNum in trackDataJson) {
     const trackInfo = trackDataJson[trackNum]
+
+    if (trackInfo["Parent Track"]) {
+      //This is a configuration
+      //Don't make it's own marker, add it as a configuration later on
+      configs.push({
+        name: trackInfo.Track,
+        parent: trackInfo["Parent Track"],
+        date: trackInfo.Date
+      })
+      continue
+    }
 
     markers.push({
       name: trackInfo.Track,
       date: trackInfo.Date,
       lat: trackInfo.Latitude,
       long: trackInfo.Longitude,
+      configs: []
     })
   }
+
+  configs.forEach((config) => {
+    const m = markers.find((marker) => marker.name === config.parent)
+    if (m) {
+      m.configs.push(config)
+    }
+  })
 
   const x = recapInfoJson
 
@@ -39,7 +59,20 @@ function renderMarkers() {
       const recapInfo = recapInfoJson[marker.name]
       return <Marker position={[marker.lat, marker.long]}>
         <Popup>
-          {marker.date}: {marker.name}
+          {printNameAndDate(marker.name, marker.date)}
+          {
+            marker.configs.length > 0 &&
+            <>
+              <br/>Additional Configurations:
+              <>
+                {
+                marker.configs.map((config) => <>
+                  <br/>&nbsp;&nbsp;{printNameAndDate(config.name, config.date)}
+                </>)
+                }
+              </>
+            </>
+          }
           {
             recapInfo !== undefined &&
             <><br/><a href={recapInfo.recap} target="_blank">Recap</a></>
@@ -48,6 +81,27 @@ function renderMarkers() {
       </Marker>
     })
 }
+
+function printNameAndDate(nameIn, dateIn) {
+  function printDate(input) {
+    if (input === undefined) {
+      return undefined
+    }
+    const d = new Date(input);
+    return (d.getUTCMonth() + 1) + '-' +
+          d.getUTCDate() + '-' +
+          d.getUTCFullYear();
+  }
+ 
+  const date = printDate(dateIn)
+  const name = nameIn
+
+  if (date === undefined) {
+    return nameIn
+  }
+  return `${date}: ${name}`
+}
+
 
 function App() {
   makeMapMarkersWork()
