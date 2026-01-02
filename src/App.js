@@ -135,7 +135,7 @@ function App() {
   return (
     <div className="App box">
       <Analytics/>
-      <h1 style={{color: "#FFF"}}>Dirk Trackchasing</h1>
+      <h1>Dirk Trackchasing</h1>
       <p>Visit my official Trackchasing page&nbsp;
         <a href="http://www.roamingtheraceways.com/overall_individual.php?cid=303" 
           target="_blank"
@@ -146,17 +146,20 @@ function App() {
       </p>
       <br/>
 
-      <MapContainer
-        center={[39.8282, -98.5796]}
-        zoom={4}
-        style={{ height: '500px', width: '80%' }}
-      >
-        <TileLayer
-          attribution='&copy; OpenStreetMap contributors'
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        />
-        {renderMarkers()}
-      </MapContainer>
+      <div>
+        <MapContainer
+          center={[39.8282, -98.5796]}
+          zoom={4}
+          style={{ height: '500px', width: '100%' }}
+        >
+          <TileLayer
+            attribution='&copy; OpenStreetMap contributors'
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          />
+          {renderMarkers()}
+        </MapContainer>
+      </div>
+
 
       <br/>
       <br/>
@@ -449,13 +452,6 @@ function App() {
       <br/>
       <hr/>
       <h3>Flips</h3>
-
-      {/* <div className="flips-container">
-        <div className="flips-child flips-left">      
-        22</div>
-        <div className="flips-child flips-right">
-          <a href="https://youtu.be/a1qwU1SYpYk" target="_blank">test</a></div>
-      </div> */}
 
       <a href="https://youtu.be/a1qwU1SYpYk" target="_blank">22 Seekonk Speedway</a>
       <br/>
