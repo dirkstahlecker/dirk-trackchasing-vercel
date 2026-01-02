@@ -61,7 +61,7 @@ function renderMarkers() {
           {printNameAndDate(marker.name, marker.date)}
           {
             marker.recap !== undefined &&
-            <>(<a href={marker.recap} target="_blank">Recap</a>)</>
+            <>{" "}(<a href={marker.recap} target="_blank">Recap</a>)</>
           }
           {
             marker.configs.length > 0 &&
@@ -74,7 +74,7 @@ function renderMarkers() {
                     <br/>&nbsp;&nbsp;{printNameAndDate(config.name, config.date)}
                     {
                       config.recap !== undefined &&
-                      <>(<a href={config.recap} target="_blank">Recap</a>)</>
+                      <>{" "}(<a href={config.recap} target="_blank">Recap</a>)</>
                     }
                   </>
                 })
