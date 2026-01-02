@@ -3,7 +3,8 @@ import { Analytics } from "@vercel/analytics/react"
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-import { recapInfoJson, recapMap, trackDataJson } from './trackData';
+import { trackDataJson } from './trackData';
+import { track } from '@vercel/analytics';
 
 //flip videos are on TrackchaserDirk youtube account
 
@@ -15,8 +16,6 @@ function makeMapMarkersWork() {
     shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
   });
 }
-
-
 
 function renderMarkers() {
   const markers = []
@@ -60,10 +59,10 @@ function renderMarkers() {
       return <Marker position={[marker.lat, marker.long]}>
         <Popup>
           {printNameAndDate(marker.name, marker.date)}
-          {/* {
-            recapInfo !== undefined &&
-            <>(<a href={recapInfo.recap} target="_blank">Recap</a>)</>
-          } */}
+          {
+            marker.recap !== undefined &&
+            <>(<a href={marker.recap} target="_blank">Recap</a>)</>
+          }
           {
             marker.configs.length > 0 &&
             <>
@@ -71,17 +70,12 @@ function renderMarkers() {
               <>
                 {
                 marker.configs.map((config) => {
-                  // const configRecap = undefined
-                  // if (recapInfo?.configs !== undefined) {
-                  //   recapInfo.configs.find((config) => config.configName)
-                  // }
-
                   return <>
                     <br/>&nbsp;&nbsp;{printNameAndDate(config.name, config.date)}
-                    {/* {
-                      configRecap &&
-                      <>(<a href={recapInfo.recap} target="_blank">Recap</a>)</>
-                    } */}
+                    {
+                      config.recap !== undefined &&
+                      <>(<a href={config.recap} target="_blank">Recap</a>)</>
+                    }
                   </>
                 })
                 }
@@ -117,6 +111,27 @@ function printNameAndDate(nameIn, dateIn) {
 function App() {
   makeMapMarkersWork()
 
+  const recapsToPrint = []
+  for (const trackNum in trackDataJson) {
+    const trackInfo = trackDataJson[trackNum]
+    if (trackInfo.Recap) {
+      recapsToPrint.push({
+        name: trackInfo.Track,
+        date: trackInfo.Date,
+        recap: trackInfo.Recap
+      })
+    }
+    trackInfo.configs?.forEach((config) => {
+      if (config.Recap) {
+        recapsToPrint.push({
+          name: config.Track,
+          date: config.Date,
+          recap: config.Recap
+        })
+      }
+    })
+  }
+
   return (
     <div className="App box">
       <Analytics/>
@@ -143,7 +158,17 @@ function App() {
         {renderMarkers()}
       </MapContainer>
 
-      <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
+      <br/>
+      <br/>
+      <h3>Race Recaps</h3>
+      <br/>
+      {recapsToPrint.map((recapObj) => <>
+        <a href={recapObj.recap}>{printNameAndDate(recapObj.name, recapObj.date)}</a>
+        <br/>
+      </>)}
+
+
+      {/* <a href="https://docs.google.com/document/d/1NY7k5ZdvMczqQ2cToR47BTQnS27GM3610PHW8iY0lZQ/edit?usp=sharing" target="_blank">2-01-20: Boardwalk Hall</a>
       <br/>
       <a href="https://docs.google.com/document/d/1gJqvKgNog4KVhEHmJIVhhf8GCnKOm2ZCXYQ2H7nIzM4/edit?usp=sharing" target="_blank">6-16-20: Paragon Speedway</a>
       <br/>
@@ -418,23 +443,8 @@ function App() {
       <a href="https://docs.google.com/document/d/1nG5cPx5aVP0IJOIZme9HeXlpB5Q9Z0uCsBgEaf_6APc/edit?usp=sharing" target="_blank">11-25-25: Bakersfield Speedway at Kevin Harvick's Kern Raceway</a>
       <br/>
       <a href="https://docs.google.com/document/d/1b2fpOQqjKEwCdD_iVEKpZqykA1BhzJAdkGQS27LMz3U/edit?usp=sharing" target="_blank">11-08-25: Glen Helen Raceway (Dirt)</a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
-      <a href="" target="_blank"></a>
-      <br/>
+      <br/> */}
+
 
       <br/>
       <hr/>
